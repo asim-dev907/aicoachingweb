@@ -1,0 +1,1001 @@
+id,question,difficulty,category,date,question_clean
+1,What is your favorite machine learning algorithm and why? (Sample 1),Medium,Machine Learning,2025-05-09,what is your favorite machine learning algorithm and why sample 1
+2,What is the bias-variance tradeoff? (Sample 2),Medium,Machine Learning,2025-03-15,what is the biasvariance tradeoff sample 2
+3,What are the key differences between classification and regression? (Sample 3),Medium,Machine Learning,2025-06-28,what are the key differences between classification and regression sample 3
+4,What is principal component analysis (PCA)? (Sample 4),Easy,Data Science,2024-09-03,what is principal component analysis pca sample 4
+5,How would you optimize a machine learning model? (Sample 5),Easy,Machine Learning,2025-01-30,how would you optimize a machine learning model sample 5
+6,Can you explain the concept of gradient descent? (Sample 6),Hard,Machine Learning,2025-07-25,can you explain the concept of gradient descent sample 6
+7,Describe the process of feature selection. (Sample 7),Easy,Machine Learning,2024-11-03,describe the process of feature selection sample 7
+8,What metrics would you use to evaluate a regression model? (Sample 8),Easy,Machine Learning,2025-06-09,what metrics would you use to evaluate a regression model sample 8
+9,What is the difference between bagging and boosting? (Sample 9),Medium,Machine Learning,2025-04-17,what is the difference between bagging and boosting sample 9
+10,What is the bias-variance tradeoff? (Sample 10),Hard,Machine Learning,2025-01-07,what is the biasvariance tradeoff sample 10
+11,What are the key differences between classification and regression? (Sample 11),Medium,Machine Learning,2024-12-23,what are the key differences between classification and regression sample 11
+12,What are the advantages of ensemble methods? (Sample 12),Hard,Machine Learning,2025-03-12,what are the advantages of ensemble methods sample 12
+13,How would you explain the concept of overfitting? (Sample 13),Easy,Machine Learning,2024-10-28,how would you explain the concept of overfitting sample 13
+14,How does a neural network work? (Sample 14),Medium,Deep Learning,2025-03-21,how does a neural network work sample 14
+15,What is principal component analysis (PCA)? (Sample 15),Medium,Data Science,2024-09-10,what is principal component analysis pca sample 15
+16,Can you explain the concept of gradient descent? (Sample 16),Easy,Machine Learning,2025-06-29,can you explain the concept of gradient descent sample 16
+17,How would you optimize a machine learning model? (Sample 17),Medium,Machine Learning,2025-04-13,how would you optimize a machine learning model sample 17
+18,What is regularization and why is it important? (Sample 18),Easy,Machine Learning,2025-01-22,what is regularization and why is it important sample 18
+19,How would you optimize a machine learning model? (Sample 19),Hard,Machine Learning,2025-06-23,how would you optimize a machine learning model sample 19
+20,Explain cross-validation and its purpose. (Sample 20),Hard,Machine Learning,2025-03-22,explain crossvalidation and its purpose sample 20
+21,Describe the process of feature selection. (Sample 21),Hard,Machine Learning,2024-08-12,describe the process of feature selection sample 21
+22,Explain the difference between L1 and L2 regularization. (Sample 22),Hard,Machine Learning,2025-04-17,explain the difference between l1 and l2 regularization sample 22
+23,What is your favorite machine learning algorithm and why? (Sample 23),Hard,Machine Learning,2024-12-24,what is your favorite machine learning algorithm and why sample 23
+24,Can you explain the concept of gradient descent? (Sample 24),Hard,Machine Learning,2025-05-09,can you explain the concept of gradient descent sample 24
+25,What is regularization and why is it important? (Sample 25),Hard,Machine Learning,2025-02-13,what is regularization and why is it important sample 25
+26,What are the advantages of ensemble methods? (Sample 26),Easy,Machine Learning,2024-09-09,what are the advantages of ensemble methods sample 26
+27,What is the difference between bagging and boosting? (Sample 27),Hard,Machine Learning,2025-01-26,what is the difference between bagging and boosting sample 27
+28,What is the bias-variance tradeoff? (Sample 28),Easy,Machine Learning,2024-11-11,what is the biasvariance tradeoff sample 28
+29,What metrics would you use to evaluate a regression model? (Sample 29),Medium,Machine Learning,2025-01-20,what metrics would you use to evaluate a regression model sample 29
+30,Describe a challenging machine learning project you have worked on. (Sample 30),Easy,Machine Learning,2024-09-10,describe a challenging machine learning project you have worked on sample 30
+31,Describe a challenging machine learning project you have worked on. (Sample 31),Medium,Machine Learning,2025-07-22,describe a challenging machine learning project you have worked on sample 31
+32,What is the role of activation functions in deep learning? (Sample 32),Hard,Deep Learning,2024-09-27,what is the role of activation functions in deep learning sample 32
+33,How would you optimize a machine learning model? (Sample 33),Hard,Machine Learning,2025-07-23,how would you optimize a machine learning model sample 33
+34,Explain cross-validation and its purpose. (Sample 34),Hard,Machine Learning,2025-01-12,explain crossvalidation and its purpose sample 34
+35,What are the key differences between classification and regression? (Sample 35),Medium,Machine Learning,2025-03-07,what are the key differences between classification and regression sample 35
+36,What is the difference between bagging and boosting? (Sample 36),Hard,Machine Learning,2024-09-22,what is the difference between bagging and boosting sample 36
+37,Explain the difference between L1 and L2 regularization. (Sample 37),Easy,Machine Learning,2025-01-22,explain the difference between l1 and l2 regularization sample 37
+38,How would you explain the concept of overfitting? (Sample 38),Easy,Machine Learning,2024-08-12,how would you explain the concept of overfitting sample 38
+39,How would you explain the concept of overfitting? (Sample 39),Medium,Machine Learning,2025-03-05,how would you explain the concept of overfitting sample 39
+40,What is your favorite machine learning algorithm and why? (Sample 40),Hard,Machine Learning,2024-12-18,what is your favorite machine learning algorithm and why sample 40
+41,What is your favorite machine learning algorithm and why? (Sample 41),Hard,Machine Learning,2025-04-21,what is your favorite machine learning algorithm and why sample 41
+42,What are the key differences between classification and regression? (Sample 42),Easy,Machine Learning,2024-10-11,what are the key differences between classification and regression sample 42
+43,Describe the process of feature selection. (Sample 43),Medium,Machine Learning,2025-04-04,describe the process of feature selection sample 43
+44,What are the advantages of ensemble methods? (Sample 44),Easy,Machine Learning,2025-05-03,what are the advantages of ensemble methods sample 44
+45,Can you explain the concept of gradient descent? (Sample 45),Medium,Machine Learning,2024-12-13,can you explain the concept of gradient descent sample 45
+46,What is your favorite machine learning algorithm and why? (Sample 46),Hard,Machine Learning,2024-10-24,what is your favorite machine learning algorithm and why sample 46
+47,How would you explain the concept of overfitting? (Sample 47),Hard,Machine Learning,2025-05-18,how would you explain the concept of overfitting sample 47
+48,How would you approach data cleaning for a large dataset? (Sample 48),Medium,Data Science,2025-05-06,how would you approach data cleaning for a large dataset sample 48
+49,Describe a challenging machine learning project you have worked on. (Sample 49),Medium,Machine Learning,2025-02-25,describe a challenging machine learning project you have worked on sample 49
+50,Describe a challenging machine learning project you have worked on. (Sample 50),Easy,Machine Learning,2025-07-22,describe a challenging machine learning project you have worked on sample 50
+51,What are the key differences between classification and regression? (Sample 51),Easy,Machine Learning,2025-03-14,what are the key differences between classification and regression sample 51
+52,How would you approach data cleaning for a large dataset? (Sample 52),Hard,Data Science,2024-09-03,how would you approach data cleaning for a large dataset sample 52
+53,What is principal component analysis (PCA)? (Sample 53),Easy,Data Science,2024-08-11,what is principal component analysis pca sample 53
+54,What is the bias-variance tradeoff? (Sample 54),Medium,Machine Learning,2025-03-27,what is the biasvariance tradeoff sample 54
+55,Describe a challenging machine learning project you have worked on. (Sample 55),Medium,Machine Learning,2025-02-16,describe a challenging machine learning project you have worked on sample 55
+56,How would you approach data cleaning for a large dataset? (Sample 56),Medium,Data Science,2025-02-07,how would you approach data cleaning for a large dataset sample 56
+57,What are the advantages of ensemble methods? (Sample 57),Medium,Machine Learning,2025-01-29,what are the advantages of ensemble methods sample 57
+58,Describe the process of feature selection. (Sample 58),Hard,Machine Learning,2025-04-01,describe the process of feature selection sample 58
+59,How would you approach data cleaning for a large dataset? (Sample 59),Easy,Data Science,2025-04-11,how would you approach data cleaning for a large dataset sample 59
+60,Explain the difference between L1 and L2 regularization. (Sample 60),Medium,Machine Learning,2024-11-27,explain the difference between l1 and l2 regularization sample 60
+61,What metrics would you use to evaluate a regression model? (Sample 61),Medium,Machine Learning,2025-01-16,what metrics would you use to evaluate a regression model sample 61
+62,What are the advantages of ensemble methods? (Sample 62),Medium,Machine Learning,2024-08-28,what are the advantages of ensemble methods sample 62
+63,What is your favorite machine learning algorithm and why? (Sample 63),Hard,Machine Learning,2025-03-14,what is your favorite machine learning algorithm and why sample 63
+64,What is your favorite machine learning algorithm and why? (Sample 64),Easy,Machine Learning,2024-12-09,what is your favorite machine learning algorithm and why sample 64
+65,What is the bias-variance tradeoff? (Sample 65),Hard,Machine Learning,2024-12-29,what is the biasvariance tradeoff sample 65
+66,Can you explain the concept of gradient descent? (Sample 66),Hard,Machine Learning,2025-06-23,can you explain the concept of gradient descent sample 66
+67,Explain cross-validation and its purpose. (Sample 67),Hard,Machine Learning,2024-10-20,explain crossvalidation and its purpose sample 67
+68,What is your favorite machine learning algorithm and why? (Sample 68),Easy,Machine Learning,2024-11-05,what is your favorite machine learning algorithm and why sample 68
+69,What is principal component analysis (PCA)? (Sample 69),Easy,Data Science,2025-06-25,what is principal component analysis pca sample 69
+70,What is regularization and why is it important? (Sample 70),Easy,Machine Learning,2024-10-03,what is regularization and why is it important sample 70
+71,Describe the process of backpropagation. (Sample 71),Hard,Deep Learning,2025-07-25,describe the process of backpropagation sample 71
+72,What is principal component analysis (PCA)? (Sample 72),Medium,Data Science,2025-01-02,what is principal component analysis pca sample 72
+73,Describe the process of feature selection. (Sample 73),Hard,Machine Learning,2025-06-06,describe the process of feature selection sample 73
+74,How would you optimize a machine learning model? (Sample 74),Medium,Machine Learning,2025-05-17,how would you optimize a machine learning model sample 74
+75,How would you approach data cleaning for a large dataset? (Sample 75),Easy,Data Science,2025-01-13,how would you approach data cleaning for a large dataset sample 75
+76,How would you optimize a machine learning model? (Sample 76),Medium,Machine Learning,2025-05-02,how would you optimize a machine learning model sample 76
+77,What is the role of activation functions in deep learning? (Sample 77),Easy,Deep Learning,2024-12-25,what is the role of activation functions in deep learning sample 77
+78,What metrics would you use to evaluate a regression model? (Sample 78),Medium,Machine Learning,2025-01-29,what metrics would you use to evaluate a regression model sample 78
+79,What is the difference between bagging and boosting? (Sample 79),Easy,Machine Learning,2024-08-25,what is the difference between bagging and boosting sample 79
+80,What is principal component analysis (PCA)? (Sample 80),Hard,Data Science,2025-01-31,what is principal component analysis pca sample 80
+81,Describe the process of feature selection. (Sample 81),Easy,Machine Learning,2025-05-27,describe the process of feature selection sample 81
+82,Describe the process of backpropagation. (Sample 82),Medium,Deep Learning,2025-01-22,describe the process of backpropagation sample 82
+83,What is the difference between bagging and boosting? (Sample 83),Easy,Machine Learning,2024-12-02,what is the difference between bagging and boosting sample 83
+84,What is your favorite machine learning algorithm and why? (Sample 84),Easy,Machine Learning,2025-02-11,what is your favorite machine learning algorithm and why sample 84
+85,How does a neural network work? (Sample 85),Hard,Deep Learning,2025-05-12,how does a neural network work sample 85
+86,What is regularization and why is it important? (Sample 86),Hard,Machine Learning,2024-11-16,what is regularization and why is it important sample 86
+87,How would you approach data cleaning for a large dataset? (Sample 87),Medium,Data Science,2024-10-03,how would you approach data cleaning for a large dataset sample 87
+88,What is your favorite machine learning algorithm and why? (Sample 88),Hard,Machine Learning,2024-10-30,what is your favorite machine learning algorithm and why sample 88
+89,Explain the difference between L1 and L2 regularization. (Sample 89),Easy,Machine Learning,2024-07-30,explain the difference between l1 and l2 regularization sample 89
+90,What is the role of activation functions in deep learning? (Sample 90),Easy,Deep Learning,2025-02-14,what is the role of activation functions in deep learning sample 90
+91,Explain cross-validation and its purpose. (Sample 91),Medium,Machine Learning,2025-05-13,explain crossvalidation and its purpose sample 91
+92,Explain cross-validation and its purpose. (Sample 92),Hard,Machine Learning,2024-10-24,explain crossvalidation and its purpose sample 92
+93,What is regularization and why is it important? (Sample 93),Easy,Machine Learning,2024-11-26,what is regularization and why is it important sample 93
+94,Explain the difference between L1 and L2 regularization. (Sample 94),Hard,Machine Learning,2025-02-11,explain the difference between l1 and l2 regularization sample 94
+95,What metrics would you use to evaluate a regression model? (Sample 95),Medium,Machine Learning,2024-09-16,what metrics would you use to evaluate a regression model sample 95
+96,Explain the difference between L1 and L2 regularization. (Sample 96),Easy,Machine Learning,2024-10-27,explain the difference between l1 and l2 regularization sample 96
+97,How would you approach data cleaning for a large dataset? (Sample 97),Easy,Data Science,2024-08-05,how would you approach data cleaning for a large dataset sample 97
+98,What is regularization and why is it important? (Sample 98),Easy,Machine Learning,2024-12-04,what is regularization and why is it important sample 98
+99,What are the key differences between classification and regression? (Sample 99),Easy,Machine Learning,2024-09-22,what are the key differences between classification and regression sample 99
+100,What is your favorite machine learning algorithm and why? (Sample 100),Hard,Machine Learning,2024-10-16,what is your favorite machine learning algorithm and why sample 100
+101,Describe a challenging machine learning project you have worked on. (Sample 101),Hard,Machine Learning,2024-10-15,describe a challenging machine learning project you have worked on sample 101
+102,Can you explain the concept of gradient descent? (Sample 102),Easy,Machine Learning,2025-07-22,can you explain the concept of gradient descent sample 102
+103,Describe a challenging machine learning project you have worked on. (Sample 103),Hard,Machine Learning,2024-09-10,describe a challenging machine learning project you have worked on sample 103
+104,What is your favorite machine learning algorithm and why? (Sample 104),Medium,Machine Learning,2025-02-09,what is your favorite machine learning algorithm and why sample 104
+105,What metrics would you use to evaluate a regression model? (Sample 105),Medium,Machine Learning,2024-10-14,what metrics would you use to evaluate a regression model sample 105
+106,How would you optimize a machine learning model? (Sample 106),Easy,Machine Learning,2024-08-26,how would you optimize a machine learning model sample 106
+107,Explain cross-validation and its purpose. (Sample 107),Medium,Machine Learning,2025-06-02,explain crossvalidation and its purpose sample 107
+108,What is the role of activation functions in deep learning? (Sample 108),Medium,Deep Learning,2025-03-26,what is the role of activation functions in deep learning sample 108
+109,What are the advantages of ensemble methods? (Sample 109),Easy,Machine Learning,2024-12-02,what are the advantages of ensemble methods sample 109
+110,What are the advantages of ensemble methods? (Sample 110),Easy,Machine Learning,2024-08-03,what are the advantages of ensemble methods sample 110
+111,How would you approach data cleaning for a large dataset? (Sample 111),Medium,Data Science,2025-04-24,how would you approach data cleaning for a large dataset sample 111
+112,Can you explain the concept of gradient descent? (Sample 112),Easy,Machine Learning,2024-10-20,can you explain the concept of gradient descent sample 112
+113,How does a neural network work? (Sample 113),Hard,Deep Learning,2025-03-22,how does a neural network work sample 113
+114,What are the key differences between classification and regression? (Sample 114),Hard,Machine Learning,2025-02-22,what are the key differences between classification and regression sample 114
+115,What is the bias-variance tradeoff? (Sample 115),Medium,Machine Learning,2025-04-26,what is the biasvariance tradeoff sample 115
+116,What metrics would you use to evaluate a regression model? (Sample 116),Medium,Machine Learning,2025-05-16,what metrics would you use to evaluate a regression model sample 116
+117,What is the difference between bagging and boosting? (Sample 117),Hard,Machine Learning,2024-08-02,what is the difference between bagging and boosting sample 117
+118,What is the role of activation functions in deep learning? (Sample 118),Medium,Deep Learning,2025-07-21,what is the role of activation functions in deep learning sample 118
+119,How would you optimize a machine learning model? (Sample 119),Medium,Machine Learning,2024-11-13,how would you optimize a machine learning model sample 119
+120,What are the key differences between classification and regression? (Sample 120),Medium,Machine Learning,2025-02-16,what are the key differences between classification and regression sample 120
+121,What is the difference between bagging and boosting? (Sample 121),Easy,Machine Learning,2025-07-20,what is the difference between bagging and boosting sample 121
+122,What is regularization and why is it important? (Sample 122),Medium,Machine Learning,2024-09-20,what is regularization and why is it important sample 122
+123,What metrics would you use to evaluate a regression model? (Sample 123),Hard,Machine Learning,2025-06-20,what metrics would you use to evaluate a regression model sample 123
+124,What are the key differences between classification and regression? (Sample 124),Easy,Machine Learning,2025-05-10,what are the key differences between classification and regression sample 124
+125,What is the bias-variance tradeoff? (Sample 125),Hard,Machine Learning,2025-06-09,what is the biasvariance tradeoff sample 125
+126,What is regularization and why is it important? (Sample 126),Medium,Machine Learning,2025-06-13,what is regularization and why is it important sample 126
+127,Describe the process of feature selection. (Sample 127),Easy,Machine Learning,2025-06-08,describe the process of feature selection sample 127
+128,How would you optimize a machine learning model? (Sample 128),Hard,Machine Learning,2024-10-27,how would you optimize a machine learning model sample 128
+129,What is principal component analysis (PCA)? (Sample 129),Medium,Data Science,2025-05-15,what is principal component analysis pca sample 129
+130,What metrics would you use to evaluate a regression model? (Sample 130),Medium,Machine Learning,2024-11-27,what metrics would you use to evaluate a regression model sample 130
+131,What is the role of activation functions in deep learning? (Sample 131),Hard,Deep Learning,2024-10-24,what is the role of activation functions in deep learning sample 131
+132,Describe the process of feature selection. (Sample 132),Easy,Machine Learning,2025-06-23,describe the process of feature selection sample 132
+133,What metrics would you use to evaluate a regression model? (Sample 133),Medium,Machine Learning,2025-03-15,what metrics would you use to evaluate a regression model sample 133
+134,Can you explain the concept of gradient descent? (Sample 134),Easy,Machine Learning,2024-09-26,can you explain the concept of gradient descent sample 134
+135,What metrics would you use to evaluate a regression model? (Sample 135),Medium,Machine Learning,2025-06-21,what metrics would you use to evaluate a regression model sample 135
+136,What are the advantages of ensemble methods? (Sample 136),Hard,Machine Learning,2024-08-24,what are the advantages of ensemble methods sample 136
+137,How does a neural network work? (Sample 137),Hard,Deep Learning,2024-08-26,how does a neural network work sample 137
+138,What is regularization and why is it important? (Sample 138),Medium,Machine Learning,2025-06-14,what is regularization and why is it important sample 138
+139,What is the bias-variance tradeoff? (Sample 139),Easy,Machine Learning,2024-10-02,what is the biasvariance tradeoff sample 139
+140,What is the difference between bagging and boosting? (Sample 140),Medium,Machine Learning,2024-08-04,what is the difference between bagging and boosting sample 140
+141,What is your favorite machine learning algorithm and why? (Sample 141),Easy,Machine Learning,2025-07-11,what is your favorite machine learning algorithm and why sample 141
+142,What is the role of activation functions in deep learning? (Sample 142),Medium,Deep Learning,2025-06-10,what is the role of activation functions in deep learning sample 142
+143,How would you optimize a machine learning model? (Sample 143),Hard,Machine Learning,2024-12-15,how would you optimize a machine learning model sample 143
+144,Describe a challenging machine learning project you have worked on. (Sample 144),Hard,Machine Learning,2025-03-27,describe a challenging machine learning project you have worked on sample 144
+145,How does a neural network work? (Sample 145),Easy,Deep Learning,2025-07-04,how does a neural network work sample 145
+146,What is the difference between bagging and boosting? (Sample 146),Medium,Machine Learning,2024-10-05,what is the difference between bagging and boosting sample 146
+147,What is the role of activation functions in deep learning? (Sample 147),Easy,Deep Learning,2024-12-04,what is the role of activation functions in deep learning sample 147
+148,How would you explain the concept of overfitting? (Sample 148),Medium,Machine Learning,2025-06-23,how would you explain the concept of overfitting sample 148
+149,What are the advantages of ensemble methods? (Sample 149),Easy,Machine Learning,2024-12-26,what are the advantages of ensemble methods sample 149
+150,What is the role of activation functions in deep learning? (Sample 150),Easy,Deep Learning,2024-12-18,what is the role of activation functions in deep learning sample 150
+151,What is regularization and why is it important? (Sample 151),Easy,Machine Learning,2024-11-07,what is regularization and why is it important sample 151
+152,What metrics would you use to evaluate a regression model? (Sample 152),Hard,Machine Learning,2025-06-28,what metrics would you use to evaluate a regression model sample 152
+153,Describe the process of backpropagation. (Sample 153),Medium,Deep Learning,2024-12-14,describe the process of backpropagation sample 153
+154,Describe the process of feature selection. (Sample 154),Easy,Machine Learning,2024-09-25,describe the process of feature selection sample 154
+155,What is your favorite machine learning algorithm and why? (Sample 155),Easy,Machine Learning,2025-07-05,what is your favorite machine learning algorithm and why sample 155
+156,How would you explain the concept of overfitting? (Sample 156),Easy,Machine Learning,2025-02-25,how would you explain the concept of overfitting sample 156
+157,Can you explain the concept of gradient descent? (Sample 157),Easy,Machine Learning,2025-03-19,can you explain the concept of gradient descent sample 157
+158,How would you optimize a machine learning model? (Sample 158),Easy,Machine Learning,2025-03-16,how would you optimize a machine learning model sample 158
+159,Describe a challenging machine learning project you have worked on. (Sample 159),Easy,Machine Learning,2024-11-29,describe a challenging machine learning project you have worked on sample 159
+160,How does a neural network work? (Sample 160),Easy,Deep Learning,2025-05-19,how does a neural network work sample 160
+161,What is regularization and why is it important? (Sample 161),Medium,Machine Learning,2024-10-18,what is regularization and why is it important sample 161
+162,What are the key differences between classification and regression? (Sample 162),Easy,Machine Learning,2025-01-11,what are the key differences between classification and regression sample 162
+163,Describe a challenging machine learning project you have worked on. (Sample 163),Medium,Machine Learning,2025-01-17,describe a challenging machine learning project you have worked on sample 163
+164,Explain the difference between L1 and L2 regularization. (Sample 164),Easy,Machine Learning,2024-10-18,explain the difference between l1 and l2 regularization sample 164
+165,Can you explain the concept of gradient descent? (Sample 165),Medium,Machine Learning,2024-10-09,can you explain the concept of gradient descent sample 165
+166,What metrics would you use to evaluate a regression model? (Sample 166),Hard,Machine Learning,2024-11-05,what metrics would you use to evaluate a regression model sample 166
+167,How do you handle missing values in a dataset? (Sample 167),Easy,Data Science,2025-03-04,how do you handle missing values in a dataset sample 167
+168,What is principal component analysis (PCA)? (Sample 168),Hard,Data Science,2025-07-06,what is principal component analysis pca sample 168
+169,Explain the difference between L1 and L2 regularization. (Sample 169),Medium,Machine Learning,2025-04-23,explain the difference between l1 and l2 regularization sample 169
+170,How does a neural network work? (Sample 170),Easy,Deep Learning,2024-11-12,how does a neural network work sample 170
+171,What is principal component analysis (PCA)? (Sample 171),Medium,Data Science,2024-11-05,what is principal component analysis pca sample 171
+172,Describe the process of backpropagation. (Sample 172),Easy,Deep Learning,2025-05-31,describe the process of backpropagation sample 172
+173,What is regularization and why is it important? (Sample 173),Hard,Machine Learning,2025-03-02,what is regularization and why is it important sample 173
+174,Describe the process of backpropagation. (Sample 174),Medium,Deep Learning,2024-08-15,describe the process of backpropagation sample 174
+175,What is your favorite machine learning algorithm and why? (Sample 175),Medium,Machine Learning,2025-07-12,what is your favorite machine learning algorithm and why sample 175
+176,Describe the process of backpropagation. (Sample 176),Easy,Deep Learning,2025-01-03,describe the process of backpropagation sample 176
+177,Describe a challenging machine learning project you have worked on. (Sample 177),Medium,Machine Learning,2025-07-09,describe a challenging machine learning project you have worked on sample 177
+178,Describe the process of feature selection. (Sample 178),Hard,Machine Learning,2025-07-17,describe the process of feature selection sample 178
+179,What is principal component analysis (PCA)? (Sample 179),Medium,Data Science,2025-02-05,what is principal component analysis pca sample 179
+180,Can you explain the concept of gradient descent? (Sample 180),Easy,Machine Learning,2025-07-02,can you explain the concept of gradient descent sample 180
+181,What are the key differences between classification and regression? (Sample 181),Medium,Machine Learning,2025-07-20,what are the key differences between classification and regression sample 181
+182,What is your favorite machine learning algorithm and why? (Sample 182),Easy,Machine Learning,2025-01-23,what is your favorite machine learning algorithm and why sample 182
+183,What is the difference between bagging and boosting? (Sample 183),Easy,Machine Learning,2025-01-10,what is the difference between bagging and boosting sample 183
+184,Describe a challenging machine learning project you have worked on. (Sample 184),Easy,Machine Learning,2025-01-27,describe a challenging machine learning project you have worked on sample 184
+185,Can you explain the concept of gradient descent? (Sample 185),Medium,Machine Learning,2025-04-24,can you explain the concept of gradient descent sample 185
+186,What is principal component analysis (PCA)? (Sample 186),Easy,Data Science,2025-01-12,what is principal component analysis pca sample 186
+187,Explain the difference between L1 and L2 regularization. (Sample 187),Hard,Machine Learning,2024-08-25,explain the difference between l1 and l2 regularization sample 187
+188,How would you explain the concept of overfitting? (Sample 188),Medium,Machine Learning,2025-07-25,how would you explain the concept of overfitting sample 188
+189,What are the key differences between classification and regression? (Sample 189),Easy,Machine Learning,2025-07-26,what are the key differences between classification and regression sample 189
+190,How would you optimize a machine learning model? (Sample 190),Easy,Machine Learning,2025-03-22,how would you optimize a machine learning model sample 190
+191,Describe a challenging machine learning project you have worked on. (Sample 191),Hard,Machine Learning,2025-01-28,describe a challenging machine learning project you have worked on sample 191
+192,What is the role of activation functions in deep learning? (Sample 192),Medium,Deep Learning,2025-06-10,what is the role of activation functions in deep learning sample 192
+193,What is the role of activation functions in deep learning? (Sample 193),Easy,Deep Learning,2025-02-15,what is the role of activation functions in deep learning sample 193
+194,What is the difference between bagging and boosting? (Sample 194),Hard,Machine Learning,2025-02-18,what is the difference between bagging and boosting sample 194
+195,How would you explain the concept of overfitting? (Sample 195),Easy,Machine Learning,2025-06-18,how would you explain the concept of overfitting sample 195
+196,What is principal component analysis (PCA)? (Sample 196),Easy,Data Science,2024-08-07,what is principal component analysis pca sample 196
+197,Can you explain the concept of gradient descent? (Sample 197),Medium,Machine Learning,2025-04-19,can you explain the concept of gradient descent sample 197
+198,What are the advantages of ensemble methods? (Sample 198),Medium,Machine Learning,2024-10-06,what are the advantages of ensemble methods sample 198
+199,How do you handle missing values in a dataset? (Sample 199),Hard,Data Science,2025-05-05,how do you handle missing values in a dataset sample 199
+200,What is the role of activation functions in deep learning? (Sample 200),Hard,Deep Learning,2025-04-01,what is the role of activation functions in deep learning sample 200
+201,What is principal component analysis (PCA)? (Sample 201),Hard,Data Science,2025-03-27,what is principal component analysis pca sample 201
+202,What is regularization and why is it important? (Sample 202),Easy,Machine Learning,2024-09-23,what is regularization and why is it important sample 202
+203,What is principal component analysis (PCA)? (Sample 203),Hard,Data Science,2024-09-24,what is principal component analysis pca sample 203
+204,What is your favorite machine learning algorithm and why? (Sample 204),Hard,Machine Learning,2024-09-19,what is your favorite machine learning algorithm and why sample 204
+205,What is your favorite machine learning algorithm and why? (Sample 205),Medium,Machine Learning,2025-06-25,what is your favorite machine learning algorithm and why sample 205
+206,How does a neural network work? (Sample 206),Easy,Deep Learning,2025-02-18,how does a neural network work sample 206
+207,What metrics would you use to evaluate a regression model? (Sample 207),Hard,Machine Learning,2024-08-02,what metrics would you use to evaluate a regression model sample 207
+208,Explain the difference between L1 and L2 regularization. (Sample 208),Hard,Machine Learning,2025-06-24,explain the difference between l1 and l2 regularization sample 208
+209,How does a neural network work? (Sample 209),Easy,Deep Learning,2024-08-29,how does a neural network work sample 209
+210,How do you handle missing values in a dataset? (Sample 210),Medium,Data Science,2025-07-08,how do you handle missing values in a dataset sample 210
+211,How does a neural network work? (Sample 211),Medium,Deep Learning,2025-04-18,how does a neural network work sample 211
+212,What is the role of activation functions in deep learning? (Sample 212),Hard,Deep Learning,2025-07-01,what is the role of activation functions in deep learning sample 212
+213,What is the role of activation functions in deep learning? (Sample 213),Medium,Deep Learning,2025-01-21,what is the role of activation functions in deep learning sample 213
+214,Describe a challenging machine learning project you have worked on. (Sample 214),Hard,Machine Learning,2024-09-27,describe a challenging machine learning project you have worked on sample 214
+215,Describe the process of feature selection. (Sample 215),Easy,Machine Learning,2024-10-12,describe the process of feature selection sample 215
+216,Can you explain the concept of gradient descent? (Sample 216),Medium,Machine Learning,2025-01-27,can you explain the concept of gradient descent sample 216
+217,How do you handle missing values in a dataset? (Sample 217),Hard,Data Science,2025-05-15,how do you handle missing values in a dataset sample 217
+218,How do you handle missing values in a dataset? (Sample 218),Hard,Data Science,2024-12-11,how do you handle missing values in a dataset sample 218
+219,What is regularization and why is it important? (Sample 219),Hard,Machine Learning,2025-06-26,what is regularization and why is it important sample 219
+220,What is regularization and why is it important? (Sample 220),Easy,Machine Learning,2024-12-27,what is regularization and why is it important sample 220
+221,What is regularization and why is it important? (Sample 221),Easy,Machine Learning,2024-12-14,what is regularization and why is it important sample 221
+222,How do you handle missing values in a dataset? (Sample 222),Medium,Data Science,2024-10-01,how do you handle missing values in a dataset sample 222
+223,What is regularization and why is it important? (Sample 223),Medium,Machine Learning,2024-10-12,what is regularization and why is it important sample 223
+224,Describe a challenging machine learning project you have worked on. (Sample 224),Medium,Machine Learning,2025-01-27,describe a challenging machine learning project you have worked on sample 224
+225,Describe the process of feature selection. (Sample 225),Medium,Machine Learning,2024-09-12,describe the process of feature selection sample 225
+226,What are the advantages of ensemble methods? (Sample 226),Medium,Machine Learning,2025-05-13,what are the advantages of ensemble methods sample 226
+227,Describe the process of feature selection. (Sample 227),Medium,Machine Learning,2024-10-10,describe the process of feature selection sample 227
+228,What is principal component analysis (PCA)? (Sample 228),Hard,Data Science,2025-04-03,what is principal component analysis pca sample 228
+229,How would you optimize a machine learning model? (Sample 229),Medium,Machine Learning,2024-10-11,how would you optimize a machine learning model sample 229
+230,What is the difference between bagging and boosting? (Sample 230),Easy,Machine Learning,2024-08-23,what is the difference between bagging and boosting sample 230
+231,How would you optimize a machine learning model? (Sample 231),Hard,Machine Learning,2025-07-21,how would you optimize a machine learning model sample 231
+232,What is the bias-variance tradeoff? (Sample 232),Medium,Machine Learning,2025-05-15,what is the biasvariance tradeoff sample 232
+233,What is your favorite machine learning algorithm and why? (Sample 233),Medium,Machine Learning,2025-06-27,what is your favorite machine learning algorithm and why sample 233
+234,Describe a challenging machine learning project you have worked on. (Sample 234),Hard,Machine Learning,2024-10-30,describe a challenging machine learning project you have worked on sample 234
+235,What is the role of activation functions in deep learning? (Sample 235),Hard,Deep Learning,2025-03-15,what is the role of activation functions in deep learning sample 235
+236,What are the advantages of ensemble methods? (Sample 236),Medium,Machine Learning,2024-08-19,what are the advantages of ensemble methods sample 236
+237,What are the advantages of ensemble methods? (Sample 237),Hard,Machine Learning,2024-11-14,what are the advantages of ensemble methods sample 237
+238,How would you optimize a machine learning model? (Sample 238),Medium,Machine Learning,2024-08-22,how would you optimize a machine learning model sample 238
+239,What metrics would you use to evaluate a regression model? (Sample 239),Easy,Machine Learning,2025-06-17,what metrics would you use to evaluate a regression model sample 239
+240,What are the key differences between classification and regression? (Sample 240),Medium,Machine Learning,2024-08-17,what are the key differences between classification and regression sample 240
+241,Explain the difference between L1 and L2 regularization. (Sample 241),Medium,Machine Learning,2025-04-23,explain the difference between l1 and l2 regularization sample 241
+242,Describe the process of backpropagation. (Sample 242),Hard,Deep Learning,2024-11-22,describe the process of backpropagation sample 242
+243,Describe a challenging machine learning project you have worked on. (Sample 243),Hard,Machine Learning,2025-06-21,describe a challenging machine learning project you have worked on sample 243
+244,Describe a challenging machine learning project you have worked on. (Sample 244),Hard,Machine Learning,2024-10-04,describe a challenging machine learning project you have worked on sample 244
+245,How would you optimize a machine learning model? (Sample 245),Medium,Machine Learning,2024-09-20,how would you optimize a machine learning model sample 245
+246,Describe a challenging machine learning project you have worked on. (Sample 246),Easy,Machine Learning,2024-11-26,describe a challenging machine learning project you have worked on sample 246
+247,What are the key differences between classification and regression? (Sample 247),Hard,Machine Learning,2024-12-01,what are the key differences between classification and regression sample 247
+248,Can you explain the concept of gradient descent? (Sample 248),Hard,Machine Learning,2025-06-01,can you explain the concept of gradient descent sample 248
+249,Describe the process of feature selection. (Sample 249),Easy,Machine Learning,2024-08-21,describe the process of feature selection sample 249
+250,What is principal component analysis (PCA)? (Sample 250),Hard,Data Science,2025-01-15,what is principal component analysis pca sample 250
+251,What is the role of activation functions in deep learning? (Sample 251),Easy,Deep Learning,2024-09-17,what is the role of activation functions in deep learning sample 251
+252,How does a neural network work? (Sample 252),Medium,Deep Learning,2025-05-06,how does a neural network work sample 252
+253,What is the bias-variance tradeoff? (Sample 253),Medium,Machine Learning,2025-06-27,what is the biasvariance tradeoff sample 253
+254,What are the advantages of ensemble methods? (Sample 254),Easy,Machine Learning,2025-04-10,what are the advantages of ensemble methods sample 254
+255,Explain cross-validation and its purpose. (Sample 255),Medium,Machine Learning,2025-05-02,explain crossvalidation and its purpose sample 255
+256,What metrics would you use to evaluate a regression model? (Sample 256),Hard,Machine Learning,2024-08-10,what metrics would you use to evaluate a regression model sample 256
+257,What is the bias-variance tradeoff? (Sample 257),Hard,Machine Learning,2025-03-31,what is the biasvariance tradeoff sample 257
+258,Describe a challenging machine learning project you have worked on. (Sample 258),Medium,Machine Learning,2024-10-17,describe a challenging machine learning project you have worked on sample 258
+259,How does a neural network work? (Sample 259),Easy,Deep Learning,2024-08-19,how does a neural network work sample 259
+260,Describe the process of feature selection. (Sample 260),Medium,Machine Learning,2025-03-02,describe the process of feature selection sample 260
+261,How would you approach data cleaning for a large dataset? (Sample 261),Hard,Data Science,2024-09-08,how would you approach data cleaning for a large dataset sample 261
+262,Describe the process of feature selection. (Sample 262),Easy,Machine Learning,2025-02-11,describe the process of feature selection sample 262
+263,How would you approach data cleaning for a large dataset? (Sample 263),Medium,Data Science,2025-07-01,how would you approach data cleaning for a large dataset sample 263
+264,What is the difference between bagging and boosting? (Sample 264),Easy,Machine Learning,2025-05-28,what is the difference between bagging and boosting sample 264
+265,Explain the difference between L1 and L2 regularization. (Sample 265),Medium,Machine Learning,2025-03-09,explain the difference between l1 and l2 regularization sample 265
+266,How would you optimize a machine learning model? (Sample 266),Medium,Machine Learning,2025-05-03,how would you optimize a machine learning model sample 266
+267,What metrics would you use to evaluate a regression model? (Sample 267),Easy,Machine Learning,2025-05-05,what metrics would you use to evaluate a regression model sample 267
+268,What is the bias-variance tradeoff? (Sample 268),Medium,Machine Learning,2024-12-19,what is the biasvariance tradeoff sample 268
+269,What is your favorite machine learning algorithm and why? (Sample 269),Hard,Machine Learning,2025-02-14,what is your favorite machine learning algorithm and why sample 269
+270,What is the difference between bagging and boosting? (Sample 270),Hard,Machine Learning,2025-04-30,what is the difference between bagging and boosting sample 270
+271,Describe a challenging machine learning project you have worked on. (Sample 271),Hard,Machine Learning,2025-03-26,describe a challenging machine learning project you have worked on sample 271
+272,What is your favorite machine learning algorithm and why? (Sample 272),Easy,Machine Learning,2024-09-14,what is your favorite machine learning algorithm and why sample 272
+273,Explain cross-validation and its purpose. (Sample 273),Easy,Machine Learning,2024-12-06,explain crossvalidation and its purpose sample 273
+274,What is the role of activation functions in deep learning? (Sample 274),Hard,Deep Learning,2025-04-15,what is the role of activation functions in deep learning sample 274
+275,What is your favorite machine learning algorithm and why? (Sample 275),Medium,Machine Learning,2025-05-15,what is your favorite machine learning algorithm and why sample 275
+276,Explain cross-validation and its purpose. (Sample 276),Medium,Machine Learning,2024-11-17,explain crossvalidation and its purpose sample 276
+277,How does a neural network work? (Sample 277),Hard,Deep Learning,2024-09-13,how does a neural network work sample 277
+278,What are the key differences between classification and regression? (Sample 278),Medium,Machine Learning,2024-09-30,what are the key differences between classification and regression sample 278
+279,What are the key differences between classification and regression? (Sample 279),Medium,Machine Learning,2025-02-25,what are the key differences between classification and regression sample 279
+280,What is regularization and why is it important? (Sample 280),Medium,Machine Learning,2024-10-22,what is regularization and why is it important sample 280
+281,Describe the process of backpropagation. (Sample 281),Medium,Deep Learning,2024-10-18,describe the process of backpropagation sample 281
+282,What are the key differences between classification and regression? (Sample 282),Easy,Machine Learning,2025-02-17,what are the key differences between classification and regression sample 282
+283,What is the bias-variance tradeoff? (Sample 283),Medium,Machine Learning,2025-05-13,what is the biasvariance tradeoff sample 283
+284,What are the key differences between classification and regression? (Sample 284),Easy,Machine Learning,2024-08-15,what are the key differences between classification and regression sample 284
+285,What are the key differences between classification and regression? (Sample 285),Hard,Machine Learning,2024-09-21,what are the key differences between classification and regression sample 285
+286,Describe a challenging machine learning project you have worked on. (Sample 286),Medium,Machine Learning,2024-11-09,describe a challenging machine learning project you have worked on sample 286
+287,What are the key differences between classification and regression? (Sample 287),Easy,Machine Learning,2025-05-15,what are the key differences between classification and regression sample 287
+288,Explain the difference between L1 and L2 regularization. (Sample 288),Hard,Machine Learning,2024-11-22,explain the difference between l1 and l2 regularization sample 288
+289,How would you optimize a machine learning model? (Sample 289),Easy,Machine Learning,2024-12-03,how would you optimize a machine learning model sample 289
+290,What are the advantages of ensemble methods? (Sample 290),Easy,Machine Learning,2025-07-28,what are the advantages of ensemble methods sample 290
+291,Can you explain the concept of gradient descent? (Sample 291),Medium,Machine Learning,2024-08-01,can you explain the concept of gradient descent sample 291
+292,What is regularization and why is it important? (Sample 292),Hard,Machine Learning,2025-05-05,what is regularization and why is it important sample 292
+293,Explain cross-validation and its purpose. (Sample 293),Hard,Machine Learning,2025-01-13,explain crossvalidation and its purpose sample 293
+294,How does a neural network work? (Sample 294),Easy,Deep Learning,2025-01-02,how does a neural network work sample 294
+295,How does a neural network work? (Sample 295),Medium,Deep Learning,2025-07-07,how does a neural network work sample 295
+296,Describe the process of backpropagation. (Sample 296),Hard,Deep Learning,2025-03-10,describe the process of backpropagation sample 296
+297,How would you optimize a machine learning model? (Sample 297),Medium,Machine Learning,2024-08-06,how would you optimize a machine learning model sample 297
+298,What is the difference between bagging and boosting? (Sample 298),Hard,Machine Learning,2024-09-09,what is the difference between bagging and boosting sample 298
+299,What is your favorite machine learning algorithm and why? (Sample 299),Medium,Machine Learning,2024-10-26,what is your favorite machine learning algorithm and why sample 299
+300,Describe the process of feature selection. (Sample 300),Hard,Machine Learning,2025-04-16,describe the process of feature selection sample 300
+301,What metrics would you use to evaluate a regression model? (Sample 301),Medium,Machine Learning,2024-12-07,what metrics would you use to evaluate a regression model sample 301
+302,What is principal component analysis (PCA)? (Sample 302),Hard,Data Science,2024-09-19,what is principal component analysis pca sample 302
+303,How would you approach data cleaning for a large dataset? (Sample 303),Easy,Data Science,2024-11-10,how would you approach data cleaning for a large dataset sample 303
+304,What is the bias-variance tradeoff? (Sample 304),Medium,Machine Learning,2024-11-23,what is the biasvariance tradeoff sample 304
+305,Describe the process of feature selection. (Sample 305),Easy,Machine Learning,2024-11-02,describe the process of feature selection sample 305
+306,Describe a challenging machine learning project you have worked on. (Sample 306),Medium,Machine Learning,2024-07-29,describe a challenging machine learning project you have worked on sample 306
+307,What is your favorite machine learning algorithm and why? (Sample 307),Hard,Machine Learning,2025-02-15,what is your favorite machine learning algorithm and why sample 307
+308,What is the bias-variance tradeoff? (Sample 308),Medium,Machine Learning,2025-06-07,what is the biasvariance tradeoff sample 308
+309,What metrics would you use to evaluate a regression model? (Sample 309),Medium,Machine Learning,2025-07-05,what metrics would you use to evaluate a regression model sample 309
+310,What are the key differences between classification and regression? (Sample 310),Easy,Machine Learning,2025-07-20,what are the key differences between classification and regression sample 310
+311,How would you optimize a machine learning model? (Sample 311),Hard,Machine Learning,2024-10-25,how would you optimize a machine learning model sample 311
+312,Explain cross-validation and its purpose. (Sample 312),Hard,Machine Learning,2025-01-26,explain crossvalidation and its purpose sample 312
+313,What is the bias-variance tradeoff? (Sample 313),Medium,Machine Learning,2024-10-03,what is the biasvariance tradeoff sample 313
+314,How does a neural network work? (Sample 314),Hard,Deep Learning,2025-02-28,how does a neural network work sample 314
+315,How would you explain the concept of overfitting? (Sample 315),Easy,Machine Learning,2024-10-30,how would you explain the concept of overfitting sample 315
+316,Explain the difference between L1 and L2 regularization. (Sample 316),Hard,Machine Learning,2025-06-03,explain the difference between l1 and l2 regularization sample 316
+317,Explain cross-validation and its purpose. (Sample 317),Hard,Machine Learning,2025-03-10,explain crossvalidation and its purpose sample 317
+318,Describe the process of backpropagation. (Sample 318),Easy,Deep Learning,2024-09-26,describe the process of backpropagation sample 318
+319,What are the advantages of ensemble methods? (Sample 319),Easy,Machine Learning,2024-09-24,what are the advantages of ensemble methods sample 319
+320,What metrics would you use to evaluate a regression model? (Sample 320),Medium,Machine Learning,2024-10-30,what metrics would you use to evaluate a regression model sample 320
+321,Describe the process of feature selection. (Sample 321),Easy,Machine Learning,2024-11-09,describe the process of feature selection sample 321
+322,Describe the process of backpropagation. (Sample 322),Easy,Deep Learning,2025-05-20,describe the process of backpropagation sample 322
+323,How would you explain the concept of overfitting? (Sample 323),Easy,Machine Learning,2025-04-26,how would you explain the concept of overfitting sample 323
+324,What is principal component analysis (PCA)? (Sample 324),Hard,Data Science,2025-03-30,what is principal component analysis pca sample 324
+325,Explain the difference between L1 and L2 regularization. (Sample 325),Easy,Machine Learning,2025-06-19,explain the difference between l1 and l2 regularization sample 325
+326,What is principal component analysis (PCA)? (Sample 326),Hard,Data Science,2025-07-08,what is principal component analysis pca sample 326
+327,What is your favorite machine learning algorithm and why? (Sample 327),Hard,Machine Learning,2025-05-29,what is your favorite machine learning algorithm and why sample 327
+328,How does a neural network work? (Sample 328),Medium,Deep Learning,2024-09-04,how does a neural network work sample 328
+329,Can you explain the concept of gradient descent? (Sample 329),Easy,Machine Learning,2025-01-07,can you explain the concept of gradient descent sample 329
+330,What is your favorite machine learning algorithm and why? (Sample 330),Easy,Machine Learning,2025-05-23,what is your favorite machine learning algorithm and why sample 330
+331,Explain cross-validation and its purpose. (Sample 331),Medium,Machine Learning,2025-06-12,explain crossvalidation and its purpose sample 331
+332,What is principal component analysis (PCA)? (Sample 332),Hard,Data Science,2024-11-06,what is principal component analysis pca sample 332
+333,What are the key differences between classification and regression? (Sample 333),Hard,Machine Learning,2025-03-12,what are the key differences between classification and regression sample 333
+334,Can you explain the concept of gradient descent? (Sample 334),Hard,Machine Learning,2024-12-29,can you explain the concept of gradient descent sample 334
+335,How do you handle missing values in a dataset? (Sample 335),Hard,Data Science,2025-01-16,how do you handle missing values in a dataset sample 335
+336,What is the role of activation functions in deep learning? (Sample 336),Easy,Deep Learning,2025-03-25,what is the role of activation functions in deep learning sample 336
+337,What are the key differences between classification and regression? (Sample 337),Hard,Machine Learning,2025-06-29,what are the key differences between classification and regression sample 337
+338,Describe the process of backpropagation. (Sample 338),Hard,Deep Learning,2025-05-20,describe the process of backpropagation sample 338
+339,What are the advantages of ensemble methods? (Sample 339),Medium,Machine Learning,2025-01-05,what are the advantages of ensemble methods sample 339
+340,Explain the difference between L1 and L2 regularization. (Sample 340),Medium,Machine Learning,2025-03-10,explain the difference between l1 and l2 regularization sample 340
+341,What is principal component analysis (PCA)? (Sample 341),Hard,Data Science,2024-10-30,what is principal component analysis pca sample 341
+342,What is the difference between bagging and boosting? (Sample 342),Medium,Machine Learning,2024-09-30,what is the difference between bagging and boosting sample 342
+343,What is the role of activation functions in deep learning? (Sample 343),Medium,Deep Learning,2024-11-29,what is the role of activation functions in deep learning sample 343
+344,What is principal component analysis (PCA)? (Sample 344),Hard,Data Science,2024-09-24,what is principal component analysis pca sample 344
+345,Can you explain the concept of gradient descent? (Sample 345),Hard,Machine Learning,2024-09-01,can you explain the concept of gradient descent sample 345
+346,Describe a challenging machine learning project you have worked on. (Sample 346),Easy,Machine Learning,2024-11-01,describe a challenging machine learning project you have worked on sample 346
+347,How does a neural network work? (Sample 347),Medium,Deep Learning,2025-06-10,how does a neural network work sample 347
+348,What is your favorite machine learning algorithm and why? (Sample 348),Hard,Machine Learning,2025-07-21,what is your favorite machine learning algorithm and why sample 348
+349,How does a neural network work? (Sample 349),Medium,Deep Learning,2024-10-22,how does a neural network work sample 349
+350,Explain the difference between L1 and L2 regularization. (Sample 350),Easy,Machine Learning,2024-09-06,explain the difference between l1 and l2 regularization sample 350
+351,Describe a challenging machine learning project you have worked on. (Sample 351),Medium,Machine Learning,2025-01-10,describe a challenging machine learning project you have worked on sample 351
+352,What is the role of activation functions in deep learning? (Sample 352),Medium,Deep Learning,2025-06-10,what is the role of activation functions in deep learning sample 352
+353,How would you approach data cleaning for a large dataset? (Sample 353),Medium,Data Science,2025-01-18,how would you approach data cleaning for a large dataset sample 353
+354,What metrics would you use to evaluate a regression model? (Sample 354),Hard,Machine Learning,2024-09-02,what metrics would you use to evaluate a regression model sample 354
+355,What metrics would you use to evaluate a regression model? (Sample 355),Medium,Machine Learning,2025-05-10,what metrics would you use to evaluate a regression model sample 355
+356,What metrics would you use to evaluate a regression model? (Sample 356),Hard,Machine Learning,2025-04-02,what metrics would you use to evaluate a regression model sample 356
+357,How would you explain the concept of overfitting? (Sample 357),Medium,Machine Learning,2025-03-06,how would you explain the concept of overfitting sample 357
+358,How would you optimize a machine learning model? (Sample 358),Medium,Machine Learning,2024-09-13,how would you optimize a machine learning model sample 358
+359,Describe a challenging machine learning project you have worked on. (Sample 359),Medium,Machine Learning,2024-08-28,describe a challenging machine learning project you have worked on sample 359
+360,How would you optimize a machine learning model? (Sample 360),Easy,Machine Learning,2025-05-20,how would you optimize a machine learning model sample 360
+361,What is the difference between bagging and boosting? (Sample 361),Easy,Machine Learning,2025-02-24,what is the difference between bagging and boosting sample 361
+362,What is principal component analysis (PCA)? (Sample 362),Easy,Data Science,2025-03-11,what is principal component analysis pca sample 362
+363,What is the bias-variance tradeoff? (Sample 363),Easy,Machine Learning,2024-08-30,what is the biasvariance tradeoff sample 363
+364,Describe the process of backpropagation. (Sample 364),Easy,Deep Learning,2025-02-08,describe the process of backpropagation sample 364
+365,Explain the difference between L1 and L2 regularization. (Sample 365),Easy,Machine Learning,2024-09-28,explain the difference between l1 and l2 regularization sample 365
+366,What are the key differences between classification and regression? (Sample 366),Easy,Machine Learning,2025-03-19,what are the key differences between classification and regression sample 366
+367,How would you optimize a machine learning model? (Sample 367),Hard,Machine Learning,2024-07-31,how would you optimize a machine learning model sample 367
+368,What is the difference between bagging and boosting? (Sample 368),Easy,Machine Learning,2025-05-31,what is the difference between bagging and boosting sample 368
+369,What are the advantages of ensemble methods? (Sample 369),Medium,Machine Learning,2024-10-02,what are the advantages of ensemble methods sample 369
+370,Can you explain the concept of gradient descent? (Sample 370),Medium,Machine Learning,2024-08-02,can you explain the concept of gradient descent sample 370
+371,Explain cross-validation and its purpose. (Sample 371),Easy,Machine Learning,2025-02-04,explain crossvalidation and its purpose sample 371
+372,What is principal component analysis (PCA)? (Sample 372),Medium,Data Science,2024-09-28,what is principal component analysis pca sample 372
+373,Describe the process of backpropagation. (Sample 373),Easy,Deep Learning,2025-02-14,describe the process of backpropagation sample 373
+374,What are the advantages of ensemble methods? (Sample 374),Medium,Machine Learning,2024-12-23,what are the advantages of ensemble methods sample 374
+375,What is the bias-variance tradeoff? (Sample 375),Easy,Machine Learning,2024-09-07,what is the biasvariance tradeoff sample 375
+376,Describe the process of backpropagation. (Sample 376),Easy,Deep Learning,2025-05-30,describe the process of backpropagation sample 376
+377,What is the role of activation functions in deep learning? (Sample 377),Easy,Deep Learning,2025-03-16,what is the role of activation functions in deep learning sample 377
+378,What are the key differences between classification and regression? (Sample 378),Hard,Machine Learning,2024-11-18,what are the key differences between classification and regression sample 378
+379,Can you explain the concept of gradient descent? (Sample 379),Hard,Machine Learning,2024-08-20,can you explain the concept of gradient descent sample 379
+380,What is your favorite machine learning algorithm and why? (Sample 380),Easy,Machine Learning,2024-10-31,what is your favorite machine learning algorithm and why sample 380
+381,What is regularization and why is it important? (Sample 381),Hard,Machine Learning,2025-01-29,what is regularization and why is it important sample 381
+382,What is regularization and why is it important? (Sample 382),Easy,Machine Learning,2025-03-30,what is regularization and why is it important sample 382
+383,Explain cross-validation and its purpose. (Sample 383),Hard,Machine Learning,2024-08-18,explain crossvalidation and its purpose sample 383
+384,What is your favorite machine learning algorithm and why? (Sample 384),Easy,Machine Learning,2025-05-29,what is your favorite machine learning algorithm and why sample 384
+385,Explain the difference between L1 and L2 regularization. (Sample 385),Easy,Machine Learning,2025-04-24,explain the difference between l1 and l2 regularization sample 385
+386,Describe the process of backpropagation. (Sample 386),Medium,Deep Learning,2024-08-01,describe the process of backpropagation sample 386
+387,What is the difference between bagging and boosting? (Sample 387),Medium,Machine Learning,2025-04-02,what is the difference between bagging and boosting sample 387
+388,What is regularization and why is it important? (Sample 388),Hard,Machine Learning,2025-05-15,what is regularization and why is it important sample 388
+389,How would you approach data cleaning for a large dataset? (Sample 389),Medium,Data Science,2025-02-23,how would you approach data cleaning for a large dataset sample 389
+390,Explain the difference between L1 and L2 regularization. (Sample 390),Easy,Machine Learning,2024-09-06,explain the difference between l1 and l2 regularization sample 390
+391,What is principal component analysis (PCA)? (Sample 391),Easy,Data Science,2025-06-01,what is principal component analysis pca sample 391
+392,What are the advantages of ensemble methods? (Sample 392),Easy,Machine Learning,2025-05-16,what are the advantages of ensemble methods sample 392
+393,Describe a challenging machine learning project you have worked on. (Sample 393),Medium,Machine Learning,2024-12-12,describe a challenging machine learning project you have worked on sample 393
+394,What are the key differences between classification and regression? (Sample 394),Easy,Machine Learning,2025-01-20,what are the key differences between classification and regression sample 394
+395,How do you handle missing values in a dataset? (Sample 395),Hard,Data Science,2025-03-30,how do you handle missing values in a dataset sample 395
+396,Describe the process of backpropagation. (Sample 396),Easy,Deep Learning,2024-12-16,describe the process of backpropagation sample 396
+397,What are the advantages of ensemble methods? (Sample 397),Hard,Machine Learning,2025-02-01,what are the advantages of ensemble methods sample 397
+398,How would you approach data cleaning for a large dataset? (Sample 398),Easy,Data Science,2024-10-27,how would you approach data cleaning for a large dataset sample 398
+399,What is your favorite machine learning algorithm and why? (Sample 399),Medium,Machine Learning,2024-08-05,what is your favorite machine learning algorithm and why sample 399
+400,What is regularization and why is it important? (Sample 400),Hard,Machine Learning,2024-09-06,what is regularization and why is it important sample 400
+401,Describe the process of feature selection. (Sample 401),Medium,Machine Learning,2025-05-14,describe the process of feature selection sample 401
+402,Describe the process of feature selection. (Sample 402),Easy,Machine Learning,2025-06-05,describe the process of feature selection sample 402
+403,What metrics would you use to evaluate a regression model? (Sample 403),Hard,Machine Learning,2025-01-27,what metrics would you use to evaluate a regression model sample 403
+404,What is the role of activation functions in deep learning? (Sample 404),Medium,Deep Learning,2024-08-19,what is the role of activation functions in deep learning sample 404
+405,Describe a challenging machine learning project you have worked on. (Sample 405),Easy,Machine Learning,2024-12-11,describe a challenging machine learning project you have worked on sample 405
+406,What is the difference between bagging and boosting? (Sample 406),Medium,Machine Learning,2025-03-27,what is the difference between bagging and boosting sample 406
+407,What is your favorite machine learning algorithm and why? (Sample 407),Hard,Machine Learning,2025-07-02,what is your favorite machine learning algorithm and why sample 407
+408,How would you explain the concept of overfitting? (Sample 408),Hard,Machine Learning,2025-01-08,how would you explain the concept of overfitting sample 408
+409,Can you explain the concept of gradient descent? (Sample 409),Medium,Machine Learning,2025-06-19,can you explain the concept of gradient descent sample 409
+410,Describe a challenging machine learning project you have worked on. (Sample 410),Easy,Machine Learning,2024-11-01,describe a challenging machine learning project you have worked on sample 410
+411,Can you explain the concept of gradient descent? (Sample 411),Medium,Machine Learning,2025-02-19,can you explain the concept of gradient descent sample 411
+412,Describe a challenging machine learning project you have worked on. (Sample 412),Medium,Machine Learning,2025-03-05,describe a challenging machine learning project you have worked on sample 412
+413,How would you optimize a machine learning model? (Sample 413),Easy,Machine Learning,2025-05-09,how would you optimize a machine learning model sample 413
+414,What is principal component analysis (PCA)? (Sample 414),Hard,Data Science,2025-07-05,what is principal component analysis pca sample 414
+415,Explain cross-validation and its purpose. (Sample 415),Easy,Machine Learning,2025-04-26,explain crossvalidation and its purpose sample 415
+416,What are the advantages of ensemble methods? (Sample 416),Medium,Machine Learning,2025-07-27,what are the advantages of ensemble methods sample 416
+417,What is principal component analysis (PCA)? (Sample 417),Medium,Data Science,2025-06-12,what is principal component analysis pca sample 417
+418,What are the advantages of ensemble methods? (Sample 418),Hard,Machine Learning,2025-06-03,what are the advantages of ensemble methods sample 418
+419,What is the role of activation functions in deep learning? (Sample 419),Medium,Deep Learning,2024-08-18,what is the role of activation functions in deep learning sample 419
+420,What is the difference between bagging and boosting? (Sample 420),Hard,Machine Learning,2025-06-23,what is the difference between bagging and boosting sample 420
+421,How would you approach data cleaning for a large dataset? (Sample 421),Hard,Data Science,2024-08-01,how would you approach data cleaning for a large dataset sample 421
+422,Describe the process of backpropagation. (Sample 422),Hard,Deep Learning,2025-03-12,describe the process of backpropagation sample 422
+423,Explain cross-validation and its purpose. (Sample 423),Easy,Machine Learning,2025-01-05,explain crossvalidation and its purpose sample 423
+424,How do you handle missing values in a dataset? (Sample 424),Hard,Data Science,2024-11-26,how do you handle missing values in a dataset sample 424
+425,What are the key differences between classification and regression? (Sample 425),Hard,Machine Learning,2024-09-26,what are the key differences between classification and regression sample 425
+426,Explain cross-validation and its purpose. (Sample 426),Easy,Machine Learning,2025-07-21,explain crossvalidation and its purpose sample 426
+427,How would you explain the concept of overfitting? (Sample 427),Hard,Machine Learning,2024-10-02,how would you explain the concept of overfitting sample 427
+428,What is your favorite machine learning algorithm and why? (Sample 428),Medium,Machine Learning,2025-06-26,what is your favorite machine learning algorithm and why sample 428
+429,Describe the process of backpropagation. (Sample 429),Easy,Deep Learning,2024-11-04,describe the process of backpropagation sample 429
+430,How would you approach data cleaning for a large dataset? (Sample 430),Hard,Data Science,2025-02-07,how would you approach data cleaning for a large dataset sample 430
+431,What are the advantages of ensemble methods? (Sample 431),Medium,Machine Learning,2024-12-08,what are the advantages of ensemble methods sample 431
+432,What is the difference between bagging and boosting? (Sample 432),Easy,Machine Learning,2025-06-02,what is the difference between bagging and boosting sample 432
+433,Can you explain the concept of gradient descent? (Sample 433),Easy,Machine Learning,2024-12-21,can you explain the concept of gradient descent sample 433
+434,How would you explain the concept of overfitting? (Sample 434),Medium,Machine Learning,2025-06-02,how would you explain the concept of overfitting sample 434
+435,What are the key differences between classification and regression? (Sample 435),Easy,Machine Learning,2025-06-12,what are the key differences between classification and regression sample 435
+436,What is regularization and why is it important? (Sample 436),Easy,Machine Learning,2024-10-11,what is regularization and why is it important sample 436
+437,Describe the process of backpropagation. (Sample 437),Hard,Deep Learning,2024-12-08,describe the process of backpropagation sample 437
+438,What is regularization and why is it important? (Sample 438),Medium,Machine Learning,2024-08-15,what is regularization and why is it important sample 438
+439,Describe the process of feature selection. (Sample 439),Medium,Machine Learning,2025-02-22,describe the process of feature selection sample 439
+440,How does a neural network work? (Sample 440),Hard,Deep Learning,2025-07-06,how does a neural network work sample 440
+441,Describe the process of backpropagation. (Sample 441),Easy,Deep Learning,2025-04-28,describe the process of backpropagation sample 441
+442,Describe a challenging machine learning project you have worked on. (Sample 442),Easy,Machine Learning,2024-10-10,describe a challenging machine learning project you have worked on sample 442
+443,Describe the process of feature selection. (Sample 443),Hard,Machine Learning,2025-07-20,describe the process of feature selection sample 443
+444,What is the bias-variance tradeoff? (Sample 444),Medium,Machine Learning,2024-08-13,what is the biasvariance tradeoff sample 444
+445,Describe a challenging machine learning project you have worked on. (Sample 445),Medium,Machine Learning,2024-08-12,describe a challenging machine learning project you have worked on sample 445
+446,What are the advantages of ensemble methods? (Sample 446),Easy,Machine Learning,2024-12-05,what are the advantages of ensemble methods sample 446
+447,Describe the process of feature selection. (Sample 447),Hard,Machine Learning,2025-04-08,describe the process of feature selection sample 447
+448,What is the role of activation functions in deep learning? (Sample 448),Hard,Deep Learning,2025-07-13,what is the role of activation functions in deep learning sample 448
+449,What is the difference between bagging and boosting? (Sample 449),Medium,Machine Learning,2025-01-24,what is the difference between bagging and boosting sample 449
+450,What are the advantages of ensemble methods? (Sample 450),Hard,Machine Learning,2025-03-03,what are the advantages of ensemble methods sample 450
+451,What is the difference between bagging and boosting? (Sample 451),Hard,Machine Learning,2025-04-28,what is the difference between bagging and boosting sample 451
+452,Can you explain the concept of gradient descent? (Sample 452),Medium,Machine Learning,2024-09-04,can you explain the concept of gradient descent sample 452
+453,What is your favorite machine learning algorithm and why? (Sample 453),Easy,Machine Learning,2024-08-01,what is your favorite machine learning algorithm and why sample 453
+454,How do you handle missing values in a dataset? (Sample 454),Medium,Data Science,2024-10-19,how do you handle missing values in a dataset sample 454
+455,Explain cross-validation and its purpose. (Sample 455),Easy,Machine Learning,2024-12-09,explain crossvalidation and its purpose sample 455
+456,What is the role of activation functions in deep learning? (Sample 456),Easy,Deep Learning,2024-12-23,what is the role of activation functions in deep learning sample 456
+457,What are the advantages of ensemble methods? (Sample 457),Easy,Machine Learning,2025-01-01,what are the advantages of ensemble methods sample 457
+458,What is the difference between bagging and boosting? (Sample 458),Hard,Machine Learning,2024-08-15,what is the difference between bagging and boosting sample 458
+459,What is the role of activation functions in deep learning? (Sample 459),Hard,Deep Learning,2024-09-06,what is the role of activation functions in deep learning sample 459
+460,What is your favorite machine learning algorithm and why? (Sample 460),Medium,Machine Learning,2024-08-09,what is your favorite machine learning algorithm and why sample 460
+461,How would you approach data cleaning for a large dataset? (Sample 461),Hard,Data Science,2025-01-24,how would you approach data cleaning for a large dataset sample 461
+462,What are the advantages of ensemble methods? (Sample 462),Medium,Machine Learning,2025-02-23,what are the advantages of ensemble methods sample 462
+463,Describe a challenging machine learning project you have worked on. (Sample 463),Hard,Machine Learning,2024-11-25,describe a challenging machine learning project you have worked on sample 463
+464,Explain cross-validation and its purpose. (Sample 464),Hard,Machine Learning,2025-02-28,explain crossvalidation and its purpose sample 464
+465,Can you explain the concept of gradient descent? (Sample 465),Medium,Machine Learning,2025-03-03,can you explain the concept of gradient descent sample 465
+466,What is principal component analysis (PCA)? (Sample 466),Medium,Data Science,2024-12-09,what is principal component analysis pca sample 466
+467,What are the key differences between classification and regression? (Sample 467),Hard,Machine Learning,2025-03-21,what are the key differences between classification and regression sample 467
+468,Can you explain the concept of gradient descent? (Sample 468),Easy,Machine Learning,2025-07-14,can you explain the concept of gradient descent sample 468
+469,How does a neural network work? (Sample 469),Hard,Deep Learning,2025-05-16,how does a neural network work sample 469
+470,What are the key differences between classification and regression? (Sample 470),Easy,Machine Learning,2024-08-15,what are the key differences between classification and regression sample 470
+471,How would you optimize a machine learning model? (Sample 471),Easy,Machine Learning,2024-07-30,how would you optimize a machine learning model sample 471
+472,What is your favorite machine learning algorithm and why? (Sample 472),Hard,Machine Learning,2024-08-04,what is your favorite machine learning algorithm and why sample 472
+473,What are the key differences between classification and regression? (Sample 473),Easy,Machine Learning,2024-11-10,what are the key differences between classification and regression sample 473
+474,Describe a challenging machine learning project you have worked on. (Sample 474),Easy,Machine Learning,2025-03-01,describe a challenging machine learning project you have worked on sample 474
+475,What is the difference between bagging and boosting? (Sample 475),Hard,Machine Learning,2024-10-02,what is the difference between bagging and boosting sample 475
+476,What is regularization and why is it important? (Sample 476),Medium,Machine Learning,2025-01-29,what is regularization and why is it important sample 476
+477,Explain the difference between L1 and L2 regularization. (Sample 477),Easy,Machine Learning,2024-12-17,explain the difference between l1 and l2 regularization sample 477
+478,What is principal component analysis (PCA)? (Sample 478),Medium,Data Science,2024-09-08,what is principal component analysis pca sample 478
+479,Explain cross-validation and its purpose. (Sample 479),Hard,Machine Learning,2025-05-22,explain crossvalidation and its purpose sample 479
+480,Explain the difference between L1 and L2 regularization. (Sample 480),Easy,Machine Learning,2024-11-09,explain the difference between l1 and l2 regularization sample 480
+481,What is the difference between bagging and boosting? (Sample 481),Medium,Machine Learning,2025-03-17,what is the difference between bagging and boosting sample 481
+482,Explain the difference between L1 and L2 regularization. (Sample 482),Easy,Machine Learning,2024-07-29,explain the difference between l1 and l2 regularization sample 482
+483,How would you approach data cleaning for a large dataset? (Sample 483),Medium,Data Science,2024-12-26,how would you approach data cleaning for a large dataset sample 483
+484,Describe a challenging machine learning project you have worked on. (Sample 484),Hard,Machine Learning,2025-02-10,describe a challenging machine learning project you have worked on sample 484
+485,What is the difference between bagging and boosting? (Sample 485),Hard,Machine Learning,2024-12-22,what is the difference between bagging and boosting sample 485
+486,How would you explain the concept of overfitting? (Sample 486),Easy,Machine Learning,2025-02-06,how would you explain the concept of overfitting sample 486
+487,Explain the difference between L1 and L2 regularization. (Sample 487),Medium,Machine Learning,2025-05-23,explain the difference between l1 and l2 regularization sample 487
+488,Describe a challenging machine learning project you have worked on. (Sample 488),Medium,Machine Learning,2024-08-10,describe a challenging machine learning project you have worked on sample 488
+489,What are the advantages of ensemble methods? (Sample 489),Medium,Machine Learning,2024-08-01,what are the advantages of ensemble methods sample 489
+490,How would you approach data cleaning for a large dataset? (Sample 490),Easy,Data Science,2025-04-02,how would you approach data cleaning for a large dataset sample 490
+491,How would you optimize a machine learning model? (Sample 491),Medium,Machine Learning,2024-09-12,how would you optimize a machine learning model sample 491
+492,How would you approach data cleaning for a large dataset? (Sample 492),Hard,Data Science,2025-05-04,how would you approach data cleaning for a large dataset sample 492
+493,How would you approach data cleaning for a large dataset? (Sample 493),Hard,Data Science,2024-09-06,how would you approach data cleaning for a large dataset sample 493
+494,How does a neural network work? (Sample 494),Hard,Deep Learning,2025-04-05,how does a neural network work sample 494
+495,What is your favorite machine learning algorithm and why? (Sample 495),Hard,Machine Learning,2024-09-21,what is your favorite machine learning algorithm and why sample 495
+496,What metrics would you use to evaluate a regression model? (Sample 496),Medium,Machine Learning,2025-01-22,what metrics would you use to evaluate a regression model sample 496
+497,How does a neural network work? (Sample 497),Hard,Deep Learning,2024-12-09,how does a neural network work sample 497
+498,Can you explain the concept of gradient descent? (Sample 498),Medium,Machine Learning,2025-04-08,can you explain the concept of gradient descent sample 498
+499,What are the advantages of ensemble methods? (Sample 499),Easy,Machine Learning,2025-01-06,what are the advantages of ensemble methods sample 499
+500,Describe the process of backpropagation. (Sample 500),Easy,Deep Learning,2024-08-11,describe the process of backpropagation sample 500
+501,How does a neural network work? (Sample 501),Easy,Deep Learning,2024-08-09,how does a neural network work sample 501
+502,What metrics would you use to evaluate a regression model? (Sample 502),Medium,Machine Learning,2025-05-21,what metrics would you use to evaluate a regression model sample 502
+503,How would you optimize a machine learning model? (Sample 503),Easy,Machine Learning,2025-01-25,how would you optimize a machine learning model sample 503
+504,How does a neural network work? (Sample 504),Hard,Deep Learning,2024-10-03,how does a neural network work sample 504
+505,What are the key differences between classification and regression? (Sample 505),Easy,Machine Learning,2025-05-05,what are the key differences between classification and regression sample 505
+506,What is the difference between bagging and boosting? (Sample 506),Medium,Machine Learning,2025-03-23,what is the difference between bagging and boosting sample 506
+507,What is the difference between bagging and boosting? (Sample 507),Hard,Machine Learning,2025-07-10,what is the difference between bagging and boosting sample 507
+508,What are the advantages of ensemble methods? (Sample 508),Medium,Machine Learning,2025-03-27,what are the advantages of ensemble methods sample 508
+509,What metrics would you use to evaluate a regression model? (Sample 509),Medium,Machine Learning,2025-02-23,what metrics would you use to evaluate a regression model sample 509
+510,What are the key differences between classification and regression? (Sample 510),Easy,Machine Learning,2024-08-20,what are the key differences between classification and regression sample 510
+511,What is the bias-variance tradeoff? (Sample 511),Medium,Machine Learning,2025-07-19,what is the biasvariance tradeoff sample 511
+512,How do you handle missing values in a dataset? (Sample 512),Medium,Data Science,2024-11-27,how do you handle missing values in a dataset sample 512
+513,What is the difference between bagging and boosting? (Sample 513),Medium,Machine Learning,2025-04-04,what is the difference between bagging and boosting sample 513
+514,What is the bias-variance tradeoff? (Sample 514),Easy,Machine Learning,2025-04-03,what is the biasvariance tradeoff sample 514
+515,What is the difference between bagging and boosting? (Sample 515),Easy,Machine Learning,2025-05-30,what is the difference between bagging and boosting sample 515
+516,What metrics would you use to evaluate a regression model? (Sample 516),Medium,Machine Learning,2025-03-20,what metrics would you use to evaluate a regression model sample 516
+517,Can you explain the concept of gradient descent? (Sample 517),Easy,Machine Learning,2024-10-31,can you explain the concept of gradient descent sample 517
+518,What are the advantages of ensemble methods? (Sample 518),Medium,Machine Learning,2025-07-26,what are the advantages of ensemble methods sample 518
+519,How would you approach data cleaning for a large dataset? (Sample 519),Medium,Data Science,2024-08-27,how would you approach data cleaning for a large dataset sample 519
+520,What is the difference between bagging and boosting? (Sample 520),Easy,Machine Learning,2025-01-15,what is the difference between bagging and boosting sample 520
+521,How would you approach data cleaning for a large dataset? (Sample 521),Easy,Data Science,2025-02-25,how would you approach data cleaning for a large dataset sample 521
+522,How would you optimize a machine learning model? (Sample 522),Medium,Machine Learning,2024-11-27,how would you optimize a machine learning model sample 522
+523,Describe the process of backpropagation. (Sample 523),Hard,Deep Learning,2025-04-18,describe the process of backpropagation sample 523
+524,What are the advantages of ensemble methods? (Sample 524),Medium,Machine Learning,2025-04-19,what are the advantages of ensemble methods sample 524
+525,Can you explain the concept of gradient descent? (Sample 525),Easy,Machine Learning,2025-05-27,can you explain the concept of gradient descent sample 525
+526,What is the difference between bagging and boosting? (Sample 526),Hard,Machine Learning,2025-05-12,what is the difference between bagging and boosting sample 526
+527,Describe the process of backpropagation. (Sample 527),Medium,Deep Learning,2025-07-16,describe the process of backpropagation sample 527
+528,Explain the difference between L1 and L2 regularization. (Sample 528),Hard,Machine Learning,2025-03-05,explain the difference between l1 and l2 regularization sample 528
+529,How does a neural network work? (Sample 529),Medium,Deep Learning,2024-10-27,how does a neural network work sample 529
+530,Describe the process of feature selection. (Sample 530),Easy,Machine Learning,2025-06-22,describe the process of feature selection sample 530
+531,Describe the process of feature selection. (Sample 531),Easy,Machine Learning,2025-07-11,describe the process of feature selection sample 531
+532,Describe a challenging machine learning project you have worked on. (Sample 532),Hard,Machine Learning,2024-10-17,describe a challenging machine learning project you have worked on sample 532
+533,What are the advantages of ensemble methods? (Sample 533),Medium,Machine Learning,2025-02-08,what are the advantages of ensemble methods sample 533
+534,Explain cross-validation and its purpose. (Sample 534),Easy,Machine Learning,2025-01-09,explain crossvalidation and its purpose sample 534
+535,What is principal component analysis (PCA)? (Sample 535),Medium,Data Science,2025-05-24,what is principal component analysis pca sample 535
+536,What is principal component analysis (PCA)? (Sample 536),Easy,Data Science,2024-09-22,what is principal component analysis pca sample 536
+537,What is regularization and why is it important? (Sample 537),Medium,Machine Learning,2025-01-11,what is regularization and why is it important sample 537
+538,How would you explain the concept of overfitting? (Sample 538),Medium,Machine Learning,2024-10-02,how would you explain the concept of overfitting sample 538
+539,Describe the process of backpropagation. (Sample 539),Medium,Deep Learning,2024-10-17,describe the process of backpropagation sample 539
+540,Describe a challenging machine learning project you have worked on. (Sample 540),Hard,Machine Learning,2024-12-19,describe a challenging machine learning project you have worked on sample 540
+541,How do you handle missing values in a dataset? (Sample 541),Medium,Data Science,2024-10-16,how do you handle missing values in a dataset sample 541
+542,What metrics would you use to evaluate a regression model? (Sample 542),Hard,Machine Learning,2024-08-22,what metrics would you use to evaluate a regression model sample 542
+543,Can you explain the concept of gradient descent? (Sample 543),Hard,Machine Learning,2024-11-05,can you explain the concept of gradient descent sample 543
+544,How would you optimize a machine learning model? (Sample 544),Hard,Machine Learning,2024-08-07,how would you optimize a machine learning model sample 544
+545,What is regularization and why is it important? (Sample 545),Easy,Machine Learning,2025-01-06,what is regularization and why is it important sample 545
+546,Explain the difference between L1 and L2 regularization. (Sample 546),Easy,Machine Learning,2025-05-10,explain the difference between l1 and l2 regularization sample 546
+547,What is the difference between bagging and boosting? (Sample 547),Medium,Machine Learning,2025-02-18,what is the difference between bagging and boosting sample 547
+548,Describe the process of backpropagation. (Sample 548),Medium,Deep Learning,2024-11-05,describe the process of backpropagation sample 548
+549,What metrics would you use to evaluate a regression model? (Sample 549),Medium,Machine Learning,2024-09-21,what metrics would you use to evaluate a regression model sample 549
+550,What is the bias-variance tradeoff? (Sample 550),Easy,Machine Learning,2025-06-04,what is the biasvariance tradeoff sample 550
+551,What are the key differences between classification and regression? (Sample 551),Medium,Machine Learning,2025-01-05,what are the key differences between classification and regression sample 551
+552,How would you approach data cleaning for a large dataset? (Sample 552),Easy,Data Science,2025-05-21,how would you approach data cleaning for a large dataset sample 552
+553,What is principal component analysis (PCA)? (Sample 553),Medium,Data Science,2025-01-17,what is principal component analysis pca sample 553
+554,Explain the difference between L1 and L2 regularization. (Sample 554),Easy,Machine Learning,2024-09-24,explain the difference between l1 and l2 regularization sample 554
+555,How would you explain the concept of overfitting? (Sample 555),Medium,Machine Learning,2025-03-21,how would you explain the concept of overfitting sample 555
+556,Explain the difference between L1 and L2 regularization. (Sample 556),Hard,Machine Learning,2025-03-21,explain the difference between l1 and l2 regularization sample 556
+557,Explain cross-validation and its purpose. (Sample 557),Hard,Machine Learning,2025-03-02,explain crossvalidation and its purpose sample 557
+558,Describe the process of feature selection. (Sample 558),Hard,Machine Learning,2024-11-24,describe the process of feature selection sample 558
+559,What is the difference between bagging and boosting? (Sample 559),Easy,Machine Learning,2025-04-09,what is the difference between bagging and boosting sample 559
+560,What is your favorite machine learning algorithm and why? (Sample 560),Hard,Machine Learning,2024-10-27,what is your favorite machine learning algorithm and why sample 560
+561,Describe the process of backpropagation. (Sample 561),Hard,Deep Learning,2024-08-31,describe the process of backpropagation sample 561
+562,What are the key differences between classification and regression? (Sample 562),Hard,Machine Learning,2024-10-29,what are the key differences between classification and regression sample 562
+563,What is principal component analysis (PCA)? (Sample 563),Medium,Data Science,2024-09-21,what is principal component analysis pca sample 563
+564,How do you handle missing values in a dataset? (Sample 564),Easy,Data Science,2025-04-03,how do you handle missing values in a dataset sample 564
+565,Explain the difference between L1 and L2 regularization. (Sample 565),Medium,Machine Learning,2025-07-26,explain the difference between l1 and l2 regularization sample 565
+566,Can you explain the concept of gradient descent? (Sample 566),Medium,Machine Learning,2025-07-06,can you explain the concept of gradient descent sample 566
+567,What is the difference between bagging and boosting? (Sample 567),Medium,Machine Learning,2024-12-13,what is the difference between bagging and boosting sample 567
+568,What is the difference between bagging and boosting? (Sample 568),Medium,Machine Learning,2024-08-22,what is the difference between bagging and boosting sample 568
+569,Describe the process of backpropagation. (Sample 569),Hard,Deep Learning,2024-08-14,describe the process of backpropagation sample 569
+570,What is your favorite machine learning algorithm and why? (Sample 570),Hard,Machine Learning,2024-09-12,what is your favorite machine learning algorithm and why sample 570
+571,What is regularization and why is it important? (Sample 571),Hard,Machine Learning,2025-05-29,what is regularization and why is it important sample 571
+572,How would you explain the concept of overfitting? (Sample 572),Easy,Machine Learning,2025-05-16,how would you explain the concept of overfitting sample 572
+573,What is the bias-variance tradeoff? (Sample 573),Medium,Machine Learning,2024-10-05,what is the biasvariance tradeoff sample 573
+574,What are the advantages of ensemble methods? (Sample 574),Easy,Machine Learning,2024-09-10,what are the advantages of ensemble methods sample 574
+575,What is your favorite machine learning algorithm and why? (Sample 575),Hard,Machine Learning,2025-04-21,what is your favorite machine learning algorithm and why sample 575
+576,What is the role of activation functions in deep learning? (Sample 576),Medium,Deep Learning,2024-10-23,what is the role of activation functions in deep learning sample 576
+577,What is the difference between bagging and boosting? (Sample 577),Hard,Machine Learning,2024-08-27,what is the difference between bagging and boosting sample 577
+578,How would you explain the concept of overfitting? (Sample 578),Easy,Machine Learning,2024-08-13,how would you explain the concept of overfitting sample 578
+579,What are the key differences between classification and regression? (Sample 579),Hard,Machine Learning,2025-04-30,what are the key differences between classification and regression sample 579
+580,Describe the process of feature selection. (Sample 580),Easy,Machine Learning,2025-06-23,describe the process of feature selection sample 580
+581,Explain the difference between L1 and L2 regularization. (Sample 581),Medium,Machine Learning,2025-01-01,explain the difference between l1 and l2 regularization sample 581
+582,Explain cross-validation and its purpose. (Sample 582),Easy,Machine Learning,2024-09-01,explain crossvalidation and its purpose sample 582
+583,How would you optimize a machine learning model? (Sample 583),Medium,Machine Learning,2025-04-04,how would you optimize a machine learning model sample 583
+584,Describe the process of feature selection. (Sample 584),Medium,Machine Learning,2025-05-20,describe the process of feature selection sample 584
+585,What is principal component analysis (PCA)? (Sample 585),Easy,Data Science,2025-02-15,what is principal component analysis pca sample 585
+586,What metrics would you use to evaluate a regression model? (Sample 586),Hard,Machine Learning,2024-09-12,what metrics would you use to evaluate a regression model sample 586
+587,What is the difference between bagging and boosting? (Sample 587),Easy,Machine Learning,2025-05-21,what is the difference between bagging and boosting sample 587
+588,What is the difference between bagging and boosting? (Sample 588),Easy,Machine Learning,2024-12-09,what is the difference between bagging and boosting sample 588
+589,How would you optimize a machine learning model? (Sample 589),Medium,Machine Learning,2025-06-11,how would you optimize a machine learning model sample 589
+590,How would you approach data cleaning for a large dataset? (Sample 590),Medium,Data Science,2025-06-25,how would you approach data cleaning for a large dataset sample 590
+591,What is the difference between bagging and boosting? (Sample 591),Hard,Machine Learning,2025-04-21,what is the difference between bagging and boosting sample 591
+592,Describe the process of feature selection. (Sample 592),Medium,Machine Learning,2025-05-25,describe the process of feature selection sample 592
+593,Describe a challenging machine learning project you have worked on. (Sample 593),Easy,Machine Learning,2024-08-02,describe a challenging machine learning project you have worked on sample 593
+594,What is your favorite machine learning algorithm and why? (Sample 594),Hard,Machine Learning,2025-04-28,what is your favorite machine learning algorithm and why sample 594
+595,What is the bias-variance tradeoff? (Sample 595),Hard,Machine Learning,2025-01-12,what is the biasvariance tradeoff sample 595
+596,Explain the difference between L1 and L2 regularization. (Sample 596),Easy,Machine Learning,2025-05-31,explain the difference between l1 and l2 regularization sample 596
+597,What is regularization and why is it important? (Sample 597),Hard,Machine Learning,2025-05-05,what is regularization and why is it important sample 597
+598,How does a neural network work? (Sample 598),Medium,Deep Learning,2024-10-17,how does a neural network work sample 598
+599,What is the difference between bagging and boosting? (Sample 599),Hard,Machine Learning,2025-06-13,what is the difference between bagging and boosting sample 599
+600,What is the difference between bagging and boosting? (Sample 600),Hard,Machine Learning,2024-10-27,what is the difference between bagging and boosting sample 600
+601,Describe a challenging machine learning project you have worked on. (Sample 601),Hard,Machine Learning,2024-10-07,describe a challenging machine learning project you have worked on sample 601
+602,How would you optimize a machine learning model? (Sample 602),Easy,Machine Learning,2025-07-01,how would you optimize a machine learning model sample 602
+603,How does a neural network work? (Sample 603),Medium,Deep Learning,2024-09-18,how does a neural network work sample 603
+604,How would you explain the concept of overfitting? (Sample 604),Hard,Machine Learning,2024-11-05,how would you explain the concept of overfitting sample 604
+605,Explain the difference between L1 and L2 regularization. (Sample 605),Medium,Machine Learning,2025-05-12,explain the difference between l1 and l2 regularization sample 605
+606,What is your favorite machine learning algorithm and why? (Sample 606),Hard,Machine Learning,2025-06-25,what is your favorite machine learning algorithm and why sample 606
+607,How do you handle missing values in a dataset? (Sample 607),Easy,Data Science,2025-01-02,how do you handle missing values in a dataset sample 607
+608,How does a neural network work? (Sample 608),Hard,Deep Learning,2025-07-22,how does a neural network work sample 608
+609,How would you optimize a machine learning model? (Sample 609),Hard,Machine Learning,2025-05-02,how would you optimize a machine learning model sample 609
+610,How would you explain the concept of overfitting? (Sample 610),Medium,Machine Learning,2024-10-24,how would you explain the concept of overfitting sample 610
+611,Explain cross-validation and its purpose. (Sample 611),Hard,Machine Learning,2025-01-13,explain crossvalidation and its purpose sample 611
+612,Describe the process of feature selection. (Sample 612),Medium,Machine Learning,2025-03-02,describe the process of feature selection sample 612
+613,Describe the process of feature selection. (Sample 613),Hard,Machine Learning,2024-10-23,describe the process of feature selection sample 613
+614,Can you explain the concept of gradient descent? (Sample 614),Medium,Machine Learning,2025-07-02,can you explain the concept of gradient descent sample 614
+615,Explain cross-validation and its purpose. (Sample 615),Easy,Machine Learning,2024-09-17,explain crossvalidation and its purpose sample 615
+616,How would you approach data cleaning for a large dataset? (Sample 616),Hard,Data Science,2025-01-09,how would you approach data cleaning for a large dataset sample 616
+617,What is your favorite machine learning algorithm and why? (Sample 617),Medium,Machine Learning,2025-02-09,what is your favorite machine learning algorithm and why sample 617
+618,Describe the process of feature selection. (Sample 618),Easy,Machine Learning,2025-07-19,describe the process of feature selection sample 618
+619,What is principal component analysis (PCA)? (Sample 619),Hard,Data Science,2024-10-07,what is principal component analysis pca sample 619
+620,What is principal component analysis (PCA)? (Sample 620),Easy,Data Science,2025-01-20,what is principal component analysis pca sample 620
+621,Can you explain the concept of gradient descent? (Sample 621),Medium,Machine Learning,2024-09-17,can you explain the concept of gradient descent sample 621
+622,Can you explain the concept of gradient descent? (Sample 622),Medium,Machine Learning,2024-08-06,can you explain the concept of gradient descent sample 622
+623,What is your favorite machine learning algorithm and why? (Sample 623),Medium,Machine Learning,2025-06-16,what is your favorite machine learning algorithm and why sample 623
+624,Explain the difference between L1 and L2 regularization. (Sample 624),Hard,Machine Learning,2025-03-01,explain the difference between l1 and l2 regularization sample 624
+625,Explain cross-validation and its purpose. (Sample 625),Hard,Machine Learning,2025-07-04,explain crossvalidation and its purpose sample 625
+626,What is the role of activation functions in deep learning? (Sample 626),Easy,Deep Learning,2024-10-01,what is the role of activation functions in deep learning sample 626
+627,What is principal component analysis (PCA)? (Sample 627),Easy,Data Science,2025-02-03,what is principal component analysis pca sample 627
+628,What are the key differences between classification and regression? (Sample 628),Easy,Machine Learning,2024-11-07,what are the key differences between classification and regression sample 628
+629,Describe a challenging machine learning project you have worked on. (Sample 629),Easy,Machine Learning,2025-01-28,describe a challenging machine learning project you have worked on sample 629
+630,What are the key differences between classification and regression? (Sample 630),Medium,Machine Learning,2025-02-06,what are the key differences between classification and regression sample 630
+631,What is the role of activation functions in deep learning? (Sample 631),Hard,Deep Learning,2024-10-02,what is the role of activation functions in deep learning sample 631
+632,How would you optimize a machine learning model? (Sample 632),Hard,Machine Learning,2025-04-17,how would you optimize a machine learning model sample 632
+633,What metrics would you use to evaluate a regression model? (Sample 633),Easy,Machine Learning,2024-12-15,what metrics would you use to evaluate a regression model sample 633
+634,What is the role of activation functions in deep learning? (Sample 634),Easy,Deep Learning,2025-01-09,what is the role of activation functions in deep learning sample 634
+635,What is principal component analysis (PCA)? (Sample 635),Hard,Data Science,2024-10-06,what is principal component analysis pca sample 635
+636,What is the bias-variance tradeoff? (Sample 636),Hard,Machine Learning,2024-10-13,what is the biasvariance tradeoff sample 636
+637,Can you explain the concept of gradient descent? (Sample 637),Medium,Machine Learning,2025-04-20,can you explain the concept of gradient descent sample 637
+638,How do you handle missing values in a dataset? (Sample 638),Medium,Data Science,2025-01-23,how do you handle missing values in a dataset sample 638
+639,What is your favorite machine learning algorithm and why? (Sample 639),Hard,Machine Learning,2024-12-18,what is your favorite machine learning algorithm and why sample 639
+640,What metrics would you use to evaluate a regression model? (Sample 640),Medium,Machine Learning,2024-11-14,what metrics would you use to evaluate a regression model sample 640
+641,What is regularization and why is it important? (Sample 641),Easy,Machine Learning,2025-06-27,what is regularization and why is it important sample 641
+642,What is principal component analysis (PCA)? (Sample 642),Hard,Data Science,2025-03-05,what is principal component analysis pca sample 642
+643,Can you explain the concept of gradient descent? (Sample 643),Easy,Machine Learning,2025-02-22,can you explain the concept of gradient descent sample 643
+644,Describe the process of feature selection. (Sample 644),Medium,Machine Learning,2025-05-07,describe the process of feature selection sample 644
+645,What metrics would you use to evaluate a regression model? (Sample 645),Hard,Machine Learning,2024-08-21,what metrics would you use to evaluate a regression model sample 645
+646,What metrics would you use to evaluate a regression model? (Sample 646),Medium,Machine Learning,2024-09-20,what metrics would you use to evaluate a regression model sample 646
+647,What is the difference between bagging and boosting? (Sample 647),Medium,Machine Learning,2025-01-30,what is the difference between bagging and boosting sample 647
+648,How would you optimize a machine learning model? (Sample 648),Easy,Machine Learning,2024-09-08,how would you optimize a machine learning model sample 648
+649,What are the key differences between classification and regression? (Sample 649),Easy,Machine Learning,2025-07-16,what are the key differences between classification and regression sample 649
+650,What metrics would you use to evaluate a regression model? (Sample 650),Medium,Machine Learning,2025-04-02,what metrics would you use to evaluate a regression model sample 650
+651,What is principal component analysis (PCA)? (Sample 651),Hard,Data Science,2024-08-13,what is principal component analysis pca sample 651
+652,Describe a challenging machine learning project you have worked on. (Sample 652),Hard,Machine Learning,2024-12-01,describe a challenging machine learning project you have worked on sample 652
+653,Explain cross-validation and its purpose. (Sample 653),Hard,Machine Learning,2024-10-11,explain crossvalidation and its purpose sample 653
+654,How do you handle missing values in a dataset? (Sample 654),Easy,Data Science,2024-09-16,how do you handle missing values in a dataset sample 654
+655,How would you optimize a machine learning model? (Sample 655),Medium,Machine Learning,2024-08-22,how would you optimize a machine learning model sample 655
+656,Explain cross-validation and its purpose. (Sample 656),Easy,Machine Learning,2025-02-12,explain crossvalidation and its purpose sample 656
+657,Describe the process of feature selection. (Sample 657),Medium,Machine Learning,2024-12-03,describe the process of feature selection sample 657
+658,How does a neural network work? (Sample 658),Easy,Deep Learning,2025-05-22,how does a neural network work sample 658
+659,Describe the process of backpropagation. (Sample 659),Hard,Deep Learning,2025-03-10,describe the process of backpropagation sample 659
+660,What is the bias-variance tradeoff? (Sample 660),Easy,Machine Learning,2025-04-08,what is the biasvariance tradeoff sample 660
+661,Describe a challenging machine learning project you have worked on. (Sample 661),Hard,Machine Learning,2025-07-15,describe a challenging machine learning project you have worked on sample 661
+662,Can you explain the concept of gradient descent? (Sample 662),Medium,Machine Learning,2025-02-14,can you explain the concept of gradient descent sample 662
+663,What are the advantages of ensemble methods? (Sample 663),Easy,Machine Learning,2025-03-09,what are the advantages of ensemble methods sample 663
+664,What is the role of activation functions in deep learning? (Sample 664),Easy,Deep Learning,2024-12-05,what is the role of activation functions in deep learning sample 664
+665,Describe a challenging machine learning project you have worked on. (Sample 665),Hard,Machine Learning,2024-12-26,describe a challenging machine learning project you have worked on sample 665
+666,Describe the process of backpropagation. (Sample 666),Easy,Deep Learning,2025-03-08,describe the process of backpropagation sample 666
+667,What are the key differences between classification and regression? (Sample 667),Medium,Machine Learning,2024-10-13,what are the key differences between classification and regression sample 667
+668,Can you explain the concept of gradient descent? (Sample 668),Medium,Machine Learning,2025-06-21,can you explain the concept of gradient descent sample 668
+669,What is your favorite machine learning algorithm and why? (Sample 669),Medium,Machine Learning,2024-11-06,what is your favorite machine learning algorithm and why sample 669
+670,How do you handle missing values in a dataset? (Sample 670),Hard,Data Science,2024-10-17,how do you handle missing values in a dataset sample 670
+671,Can you explain the concept of gradient descent? (Sample 671),Easy,Machine Learning,2025-06-18,can you explain the concept of gradient descent sample 671
+672,Describe the process of backpropagation. (Sample 672),Medium,Deep Learning,2024-12-29,describe the process of backpropagation sample 672
+673,How would you approach data cleaning for a large dataset? (Sample 673),Easy,Data Science,2025-03-13,how would you approach data cleaning for a large dataset sample 673
+674,How do you handle missing values in a dataset? (Sample 674),Hard,Data Science,2025-07-22,how do you handle missing values in a dataset sample 674
+675,Can you explain the concept of gradient descent? (Sample 675),Easy,Machine Learning,2024-09-29,can you explain the concept of gradient descent sample 675
+676,Describe a challenging machine learning project you have worked on. (Sample 676),Hard,Machine Learning,2025-03-31,describe a challenging machine learning project you have worked on sample 676
+677,Explain cross-validation and its purpose. (Sample 677),Hard,Machine Learning,2024-09-18,explain crossvalidation and its purpose sample 677
+678,Describe the process of feature selection. (Sample 678),Easy,Machine Learning,2024-11-17,describe the process of feature selection sample 678
+679,What is the difference between bagging and boosting? (Sample 679),Medium,Machine Learning,2024-09-03,what is the difference between bagging and boosting sample 679
+680,How do you handle missing values in a dataset? (Sample 680),Medium,Data Science,2024-09-18,how do you handle missing values in a dataset sample 680
+681,What is the difference between bagging and boosting? (Sample 681),Medium,Machine Learning,2025-06-26,what is the difference between bagging and boosting sample 681
+682,Describe a challenging machine learning project you have worked on. (Sample 682),Medium,Machine Learning,2025-06-23,describe a challenging machine learning project you have worked on sample 682
+683,What is the difference between bagging and boosting? (Sample 683),Hard,Machine Learning,2025-02-26,what is the difference between bagging and boosting sample 683
+684,Describe the process of backpropagation. (Sample 684),Medium,Deep Learning,2024-11-26,describe the process of backpropagation sample 684
+685,How would you approach data cleaning for a large dataset? (Sample 685),Hard,Data Science,2025-07-14,how would you approach data cleaning for a large dataset sample 685
+686,How would you optimize a machine learning model? (Sample 686),Easy,Machine Learning,2024-09-29,how would you optimize a machine learning model sample 686
+687,Explain cross-validation and its purpose. (Sample 687),Medium,Machine Learning,2025-04-10,explain crossvalidation and its purpose sample 687
+688,How do you handle missing values in a dataset? (Sample 688),Medium,Data Science,2025-03-31,how do you handle missing values in a dataset sample 688
+689,What is principal component analysis (PCA)? (Sample 689),Hard,Data Science,2025-03-08,what is principal component analysis pca sample 689
+690,What is regularization and why is it important? (Sample 690),Medium,Machine Learning,2024-12-26,what is regularization and why is it important sample 690
+691,What is the bias-variance tradeoff? (Sample 691),Medium,Machine Learning,2025-06-26,what is the biasvariance tradeoff sample 691
+692,Describe a challenging machine learning project you have worked on. (Sample 692),Hard,Machine Learning,2025-05-11,describe a challenging machine learning project you have worked on sample 692
+693,Describe a challenging machine learning project you have worked on. (Sample 693),Easy,Machine Learning,2025-01-15,describe a challenging machine learning project you have worked on sample 693
+694,How would you explain the concept of overfitting? (Sample 694),Easy,Machine Learning,2024-08-29,how would you explain the concept of overfitting sample 694
+695,Describe a challenging machine learning project you have worked on. (Sample 695),Easy,Machine Learning,2025-05-02,describe a challenging machine learning project you have worked on sample 695
+696,How do you handle missing values in a dataset? (Sample 696),Medium,Data Science,2025-07-25,how do you handle missing values in a dataset sample 696
+697,What are the key differences between classification and regression? (Sample 697),Easy,Machine Learning,2025-02-17,what are the key differences between classification and regression sample 697
+698,What are the key differences between classification and regression? (Sample 698),Hard,Machine Learning,2025-03-04,what are the key differences between classification and regression sample 698
+699,Can you explain the concept of gradient descent? (Sample 699),Easy,Machine Learning,2025-03-04,can you explain the concept of gradient descent sample 699
+700,Explain cross-validation and its purpose. (Sample 700),Hard,Machine Learning,2025-04-15,explain crossvalidation and its purpose sample 700
+701,Explain the difference between L1 and L2 regularization. (Sample 701),Medium,Machine Learning,2024-11-08,explain the difference between l1 and l2 regularization sample 701
+702,Describe the process of backpropagation. (Sample 702),Hard,Deep Learning,2025-05-11,describe the process of backpropagation sample 702
+703,What is principal component analysis (PCA)? (Sample 703),Easy,Data Science,2024-11-18,what is principal component analysis pca sample 703
+704,What is the bias-variance tradeoff? (Sample 704),Medium,Machine Learning,2025-01-30,what is the biasvariance tradeoff sample 704
+705,How would you explain the concept of overfitting? (Sample 705),Medium,Machine Learning,2024-09-27,how would you explain the concept of overfitting sample 705
+706,Describe a challenging machine learning project you have worked on. (Sample 706),Easy,Machine Learning,2024-09-24,describe a challenging machine learning project you have worked on sample 706
+707,Describe the process of backpropagation. (Sample 707),Medium,Deep Learning,2024-10-09,describe the process of backpropagation sample 707
+708,Can you explain the concept of gradient descent? (Sample 708),Easy,Machine Learning,2024-10-25,can you explain the concept of gradient descent sample 708
+709,How do you handle missing values in a dataset? (Sample 709),Easy,Data Science,2025-03-07,how do you handle missing values in a dataset sample 709
+710,What metrics would you use to evaluate a regression model? (Sample 710),Easy,Machine Learning,2024-12-03,what metrics would you use to evaluate a regression model sample 710
+711,What are the advantages of ensemble methods? (Sample 711),Easy,Machine Learning,2024-09-18,what are the advantages of ensemble methods sample 711
+712,Explain cross-validation and its purpose. (Sample 712),Easy,Machine Learning,2025-07-20,explain crossvalidation and its purpose sample 712
+713,How would you explain the concept of overfitting? (Sample 713),Hard,Machine Learning,2024-09-13,how would you explain the concept of overfitting sample 713
+714,Explain the difference between L1 and L2 regularization. (Sample 714),Medium,Machine Learning,2024-08-23,explain the difference between l1 and l2 regularization sample 714
+715,Can you explain the concept of gradient descent? (Sample 715),Hard,Machine Learning,2025-06-15,can you explain the concept of gradient descent sample 715
+716,What is regularization and why is it important? (Sample 716),Easy,Machine Learning,2025-02-10,what is regularization and why is it important sample 716
+717,How would you approach data cleaning for a large dataset? (Sample 717),Hard,Data Science,2024-12-15,how would you approach data cleaning for a large dataset sample 717
+718,Explain the difference between L1 and L2 regularization. (Sample 718),Hard,Machine Learning,2025-05-16,explain the difference between l1 and l2 regularization sample 718
+719,What is the difference between bagging and boosting? (Sample 719),Easy,Machine Learning,2024-12-26,what is the difference between bagging and boosting sample 719
+720,What are the advantages of ensemble methods? (Sample 720),Medium,Machine Learning,2025-06-18,what are the advantages of ensemble methods sample 720
+721,What metrics would you use to evaluate a regression model? (Sample 721),Hard,Machine Learning,2024-12-31,what metrics would you use to evaluate a regression model sample 721
+722,Describe the process of feature selection. (Sample 722),Easy,Machine Learning,2024-12-21,describe the process of feature selection sample 722
+723,What is the role of activation functions in deep learning? (Sample 723),Easy,Deep Learning,2025-01-20,what is the role of activation functions in deep learning sample 723
+724,What are the key differences between classification and regression? (Sample 724),Hard,Machine Learning,2024-09-20,what are the key differences between classification and regression sample 724
+725,How does a neural network work? (Sample 725),Hard,Deep Learning,2025-02-08,how does a neural network work sample 725
+726,Describe a challenging machine learning project you have worked on. (Sample 726),Medium,Machine Learning,2025-04-12,describe a challenging machine learning project you have worked on sample 726
+727,Explain cross-validation and its purpose. (Sample 727),Medium,Machine Learning,2025-04-27,explain crossvalidation and its purpose sample 727
+728,Describe the process of backpropagation. (Sample 728),Medium,Deep Learning,2025-03-01,describe the process of backpropagation sample 728
+729,What is the bias-variance tradeoff? (Sample 729),Medium,Machine Learning,2024-11-21,what is the biasvariance tradeoff sample 729
+730,Explain cross-validation and its purpose. (Sample 730),Hard,Machine Learning,2025-05-26,explain crossvalidation and its purpose sample 730
+731,What is principal component analysis (PCA)? (Sample 731),Hard,Data Science,2025-04-21,what is principal component analysis pca sample 731
+732,How do you handle missing values in a dataset? (Sample 732),Medium,Data Science,2025-03-22,how do you handle missing values in a dataset sample 732
+733,How would you optimize a machine learning model? (Sample 733),Easy,Machine Learning,2025-02-20,how would you optimize a machine learning model sample 733
+734,How would you explain the concept of overfitting? (Sample 734),Easy,Machine Learning,2025-05-17,how would you explain the concept of overfitting sample 734
+735,What is regularization and why is it important? (Sample 735),Medium,Machine Learning,2024-08-17,what is regularization and why is it important sample 735
+736,Explain cross-validation and its purpose. (Sample 736),Medium,Machine Learning,2024-08-21,explain crossvalidation and its purpose sample 736
+737,How would you optimize a machine learning model? (Sample 737),Hard,Machine Learning,2025-01-18,how would you optimize a machine learning model sample 737
+738,Explain cross-validation and its purpose. (Sample 738),Hard,Machine Learning,2025-07-11,explain crossvalidation and its purpose sample 738
+739,What is regularization and why is it important? (Sample 739),Hard,Machine Learning,2025-06-04,what is regularization and why is it important sample 739
+740,Explain cross-validation and its purpose. (Sample 740),Easy,Machine Learning,2024-12-15,explain crossvalidation and its purpose sample 740
+741,What is regularization and why is it important? (Sample 741),Hard,Machine Learning,2024-12-19,what is regularization and why is it important sample 741
+742,What is the role of activation functions in deep learning? (Sample 742),Hard,Deep Learning,2024-12-21,what is the role of activation functions in deep learning sample 742
+743,Describe the process of backpropagation. (Sample 743),Hard,Deep Learning,2025-06-24,describe the process of backpropagation sample 743
+744,What is the bias-variance tradeoff? (Sample 744),Medium,Machine Learning,2025-02-05,what is the biasvariance tradeoff sample 744
+745,Explain the difference between L1 and L2 regularization. (Sample 745),Easy,Machine Learning,2025-07-24,explain the difference between l1 and l2 regularization sample 745
+746,How would you optimize a machine learning model? (Sample 746),Easy,Machine Learning,2025-03-02,how would you optimize a machine learning model sample 746
+747,What metrics would you use to evaluate a regression model? (Sample 747),Easy,Machine Learning,2025-07-14,what metrics would you use to evaluate a regression model sample 747
+748,What is your favorite machine learning algorithm and why? (Sample 748),Hard,Machine Learning,2025-01-19,what is your favorite machine learning algorithm and why sample 748
+749,Describe a challenging machine learning project you have worked on. (Sample 749),Hard,Machine Learning,2024-10-22,describe a challenging machine learning project you have worked on sample 749
+750,What is the difference between bagging and boosting? (Sample 750),Medium,Machine Learning,2024-12-13,what is the difference between bagging and boosting sample 750
+751,What is the bias-variance tradeoff? (Sample 751),Hard,Machine Learning,2025-04-26,what is the biasvariance tradeoff sample 751
+752,How do you handle missing values in a dataset? (Sample 752),Easy,Data Science,2025-01-21,how do you handle missing values in a dataset sample 752
+753,Describe the process of backpropagation. (Sample 753),Hard,Deep Learning,2024-11-06,describe the process of backpropagation sample 753
+754,Explain the difference between L1 and L2 regularization. (Sample 754),Easy,Machine Learning,2025-05-30,explain the difference between l1 and l2 regularization sample 754
+755,What is the bias-variance tradeoff? (Sample 755),Hard,Machine Learning,2025-03-14,what is the biasvariance tradeoff sample 755
+756,What is the role of activation functions in deep learning? (Sample 756),Hard,Deep Learning,2024-10-22,what is the role of activation functions in deep learning sample 756
+757,What is the bias-variance tradeoff? (Sample 757),Hard,Machine Learning,2025-02-26,what is the biasvariance tradeoff sample 757
+758,How would you optimize a machine learning model? (Sample 758),Hard,Machine Learning,2025-05-09,how would you optimize a machine learning model sample 758
+759,What is principal component analysis (PCA)? (Sample 759),Medium,Data Science,2024-09-07,what is principal component analysis pca sample 759
+760,What is your favorite machine learning algorithm and why? (Sample 760),Hard,Machine Learning,2025-01-31,what is your favorite machine learning algorithm and why sample 760
+761,What is the bias-variance tradeoff? (Sample 761),Hard,Machine Learning,2024-11-23,what is the biasvariance tradeoff sample 761
+762,How would you optimize a machine learning model? (Sample 762),Medium,Machine Learning,2025-07-16,how would you optimize a machine learning model sample 762
+763,What is your favorite machine learning algorithm and why? (Sample 763),Hard,Machine Learning,2025-04-23,what is your favorite machine learning algorithm and why sample 763
+764,How would you optimize a machine learning model? (Sample 764),Medium,Machine Learning,2025-05-22,how would you optimize a machine learning model sample 764
+765,How do you handle missing values in a dataset? (Sample 765),Easy,Data Science,2025-01-01,how do you handle missing values in a dataset sample 765
+766,What is regularization and why is it important? (Sample 766),Medium,Machine Learning,2024-11-16,what is regularization and why is it important sample 766
+767,What are the advantages of ensemble methods? (Sample 767),Medium,Machine Learning,2025-04-11,what are the advantages of ensemble methods sample 767
+768,Describe the process of backpropagation. (Sample 768),Hard,Deep Learning,2024-11-16,describe the process of backpropagation sample 768
+769,What is regularization and why is it important? (Sample 769),Medium,Machine Learning,2024-09-21,what is regularization and why is it important sample 769
+770,What is your favorite machine learning algorithm and why? (Sample 770),Easy,Machine Learning,2025-06-15,what is your favorite machine learning algorithm and why sample 770
+771,What is principal component analysis (PCA)? (Sample 771),Hard,Data Science,2025-04-07,what is principal component analysis pca sample 771
+772,Describe the process of backpropagation. (Sample 772),Easy,Deep Learning,2024-09-17,describe the process of backpropagation sample 772
+773,How does a neural network work? (Sample 773),Easy,Deep Learning,2024-11-27,how does a neural network work sample 773
+774,What is principal component analysis (PCA)? (Sample 774),Medium,Data Science,2024-08-05,what is principal component analysis pca sample 774
+775,Describe the process of backpropagation. (Sample 775),Medium,Deep Learning,2024-12-07,describe the process of backpropagation sample 775
+776,What are the key differences between classification and regression? (Sample 776),Easy,Machine Learning,2025-06-09,what are the key differences between classification and regression sample 776
+777,Explain cross-validation and its purpose. (Sample 777),Hard,Machine Learning,2025-06-11,explain crossvalidation and its purpose sample 777
+778,What are the advantages of ensemble methods? (Sample 778),Hard,Machine Learning,2025-03-14,what are the advantages of ensemble methods sample 778
+779,Can you explain the concept of gradient descent? (Sample 779),Easy,Machine Learning,2025-07-15,can you explain the concept of gradient descent sample 779
+780,What metrics would you use to evaluate a regression model? (Sample 780),Hard,Machine Learning,2024-11-07,what metrics would you use to evaluate a regression model sample 780
+781,What is regularization and why is it important? (Sample 781),Hard,Machine Learning,2025-01-10,what is regularization and why is it important sample 781
+782,Describe the process of feature selection. (Sample 782),Hard,Machine Learning,2024-09-21,describe the process of feature selection sample 782
+783,What is the role of activation functions in deep learning? (Sample 783),Hard,Deep Learning,2024-08-14,what is the role of activation functions in deep learning sample 783
+784,Can you explain the concept of gradient descent? (Sample 784),Medium,Machine Learning,2024-12-09,can you explain the concept of gradient descent sample 784
+785,How do you handle missing values in a dataset? (Sample 785),Medium,Data Science,2024-11-11,how do you handle missing values in a dataset sample 785
+786,How do you handle missing values in a dataset? (Sample 786),Easy,Data Science,2025-01-23,how do you handle missing values in a dataset sample 786
+787,Describe the process of feature selection. (Sample 787),Easy,Machine Learning,2024-09-21,describe the process of feature selection sample 787
+788,What is your favorite machine learning algorithm and why? (Sample 788),Easy,Machine Learning,2025-07-11,what is your favorite machine learning algorithm and why sample 788
+789,What is regularization and why is it important? (Sample 789),Easy,Machine Learning,2025-03-16,what is regularization and why is it important sample 789
+790,Explain cross-validation and its purpose. (Sample 790),Easy,Machine Learning,2024-08-02,explain crossvalidation and its purpose sample 790
+791,How would you optimize a machine learning model? (Sample 791),Hard,Machine Learning,2024-11-29,how would you optimize a machine learning model sample 791
+792,What is regularization and why is it important? (Sample 792),Medium,Machine Learning,2025-01-08,what is regularization and why is it important sample 792
+793,Describe a challenging machine learning project you have worked on. (Sample 793),Medium,Machine Learning,2024-10-24,describe a challenging machine learning project you have worked on sample 793
+794,Describe a challenging machine learning project you have worked on. (Sample 794),Medium,Machine Learning,2024-08-09,describe a challenging machine learning project you have worked on sample 794
+795,How do you handle missing values in a dataset? (Sample 795),Medium,Data Science,2025-05-22,how do you handle missing values in a dataset sample 795
+796,What metrics would you use to evaluate a regression model? (Sample 796),Hard,Machine Learning,2025-03-17,what metrics would you use to evaluate a regression model sample 796
+797,Explain the difference between L1 and L2 regularization. (Sample 797),Medium,Machine Learning,2024-11-02,explain the difference between l1 and l2 regularization sample 797
+798,What are the key differences between classification and regression? (Sample 798),Easy,Machine Learning,2025-07-03,what are the key differences between classification and regression sample 798
+799,What is the difference between bagging and boosting? (Sample 799),Easy,Machine Learning,2025-05-31,what is the difference between bagging and boosting sample 799
+800,What is principal component analysis (PCA)? (Sample 800),Medium,Data Science,2025-05-03,what is principal component analysis pca sample 800
+801,What is regularization and why is it important? (Sample 801),Hard,Machine Learning,2025-02-06,what is regularization and why is it important sample 801
+802,How would you optimize a machine learning model? (Sample 802),Hard,Machine Learning,2024-10-27,how would you optimize a machine learning model sample 802
+803,How would you optimize a machine learning model? (Sample 803),Medium,Machine Learning,2025-02-09,how would you optimize a machine learning model sample 803
+804,How would you optimize a machine learning model? (Sample 804),Easy,Machine Learning,2025-05-04,how would you optimize a machine learning model sample 804
+805,Explain cross-validation and its purpose. (Sample 805),Easy,Machine Learning,2025-06-12,explain crossvalidation and its purpose sample 805
+806,How would you optimize a machine learning model? (Sample 806),Easy,Machine Learning,2024-08-25,how would you optimize a machine learning model sample 806
+807,How would you explain the concept of overfitting? (Sample 807),Easy,Machine Learning,2025-07-22,how would you explain the concept of overfitting sample 807
+808,Describe the process of feature selection. (Sample 808),Easy,Machine Learning,2025-07-07,describe the process of feature selection sample 808
+809,What is principal component analysis (PCA)? (Sample 809),Medium,Data Science,2025-06-23,what is principal component analysis pca sample 809
+810,Describe a challenging machine learning project you have worked on. (Sample 810),Medium,Machine Learning,2025-06-20,describe a challenging machine learning project you have worked on sample 810
+811,Can you explain the concept of gradient descent? (Sample 811),Hard,Machine Learning,2024-10-04,can you explain the concept of gradient descent sample 811
+812,What is the bias-variance tradeoff? (Sample 812),Easy,Machine Learning,2024-11-27,what is the biasvariance tradeoff sample 812
+813,What is the role of activation functions in deep learning? (Sample 813),Hard,Deep Learning,2025-06-03,what is the role of activation functions in deep learning sample 813
+814,How would you optimize a machine learning model? (Sample 814),Easy,Machine Learning,2024-09-01,how would you optimize a machine learning model sample 814
+815,What are the advantages of ensemble methods? (Sample 815),Medium,Machine Learning,2024-08-21,what are the advantages of ensemble methods sample 815
+816,Can you explain the concept of gradient descent? (Sample 816),Hard,Machine Learning,2024-12-04,can you explain the concept of gradient descent sample 816
+817,How would you approach data cleaning for a large dataset? (Sample 817),Hard,Data Science,2024-09-10,how would you approach data cleaning for a large dataset sample 817
+818,Describe the process of backpropagation. (Sample 818),Hard,Deep Learning,2024-08-10,describe the process of backpropagation sample 818
+819,What is the bias-variance tradeoff? (Sample 819),Hard,Machine Learning,2024-07-31,what is the biasvariance tradeoff sample 819
+820,How would you optimize a machine learning model? (Sample 820),Medium,Machine Learning,2024-11-28,how would you optimize a machine learning model sample 820
+821,Describe the process of backpropagation. (Sample 821),Hard,Deep Learning,2025-02-22,describe the process of backpropagation sample 821
+822,Describe a challenging machine learning project you have worked on. (Sample 822),Medium,Machine Learning,2025-03-23,describe a challenging machine learning project you have worked on sample 822
+823,What is the difference between bagging and boosting? (Sample 823),Medium,Machine Learning,2025-04-12,what is the difference between bagging and boosting sample 823
+824,How does a neural network work? (Sample 824),Hard,Deep Learning,2025-03-04,how does a neural network work sample 824
+825,Explain cross-validation and its purpose. (Sample 825),Hard,Machine Learning,2024-11-20,explain crossvalidation and its purpose sample 825
+826,How do you handle missing values in a dataset? (Sample 826),Easy,Data Science,2024-10-21,how do you handle missing values in a dataset sample 826
+827,What metrics would you use to evaluate a regression model? (Sample 827),Medium,Machine Learning,2025-03-31,what metrics would you use to evaluate a regression model sample 827
+828,How does a neural network work? (Sample 828),Medium,Deep Learning,2024-09-18,how does a neural network work sample 828
+829,What is principal component analysis (PCA)? (Sample 829),Hard,Data Science,2024-12-27,what is principal component analysis pca sample 829
+830,What is the role of activation functions in deep learning? (Sample 830),Hard,Deep Learning,2024-12-20,what is the role of activation functions in deep learning sample 830
+831,How do you handle missing values in a dataset? (Sample 831),Easy,Data Science,2024-09-19,how do you handle missing values in a dataset sample 831
+832,Describe a challenging machine learning project you have worked on. (Sample 832),Hard,Machine Learning,2024-08-05,describe a challenging machine learning project you have worked on sample 832
+833,Explain cross-validation and its purpose. (Sample 833),Hard,Machine Learning,2025-05-07,explain crossvalidation and its purpose sample 833
+834,What is regularization and why is it important? (Sample 834),Easy,Machine Learning,2024-12-16,what is regularization and why is it important sample 834
+835,Describe the process of backpropagation. (Sample 835),Easy,Deep Learning,2025-06-16,describe the process of backpropagation sample 835
+836,What metrics would you use to evaluate a regression model? (Sample 836),Medium,Machine Learning,2025-05-29,what metrics would you use to evaluate a regression model sample 836
+837,How would you explain the concept of overfitting? (Sample 837),Easy,Machine Learning,2024-09-16,how would you explain the concept of overfitting sample 837
+838,What is the role of activation functions in deep learning? (Sample 838),Easy,Deep Learning,2025-04-24,what is the role of activation functions in deep learning sample 838
+839,Explain cross-validation and its purpose. (Sample 839),Hard,Machine Learning,2025-07-26,explain crossvalidation and its purpose sample 839
+840,What is the role of activation functions in deep learning? (Sample 840),Medium,Deep Learning,2024-08-19,what is the role of activation functions in deep learning sample 840
+841,What metrics would you use to evaluate a regression model? (Sample 841),Easy,Machine Learning,2024-12-01,what metrics would you use to evaluate a regression model sample 841
+842,What metrics would you use to evaluate a regression model? (Sample 842),Hard,Machine Learning,2024-12-05,what metrics would you use to evaluate a regression model sample 842
+843,What is the role of activation functions in deep learning? (Sample 843),Easy,Deep Learning,2024-12-22,what is the role of activation functions in deep learning sample 843
+844,What is principal component analysis (PCA)? (Sample 844),Hard,Data Science,2024-11-04,what is principal component analysis pca sample 844
+845,How does a neural network work? (Sample 845),Medium,Deep Learning,2024-09-09,how does a neural network work sample 845
+846,Describe the process of feature selection. (Sample 846),Medium,Machine Learning,2024-10-02,describe the process of feature selection sample 846
+847,How do you handle missing values in a dataset? (Sample 847),Hard,Data Science,2025-01-04,how do you handle missing values in a dataset sample 847
+848,What is the bias-variance tradeoff? (Sample 848),Hard,Machine Learning,2024-11-17,what is the biasvariance tradeoff sample 848
+849,What metrics would you use to evaluate a regression model? (Sample 849),Easy,Machine Learning,2025-04-18,what metrics would you use to evaluate a regression model sample 849
+850,Explain the difference between L1 and L2 regularization. (Sample 850),Medium,Machine Learning,2025-03-07,explain the difference between l1 and l2 regularization sample 850
+851,What are the advantages of ensemble methods? (Sample 851),Easy,Machine Learning,2024-08-25,what are the advantages of ensemble methods sample 851
+852,What metrics would you use to evaluate a regression model? (Sample 852),Easy,Machine Learning,2024-08-08,what metrics would you use to evaluate a regression model sample 852
+853,How would you explain the concept of overfitting? (Sample 853),Hard,Machine Learning,2025-03-28,how would you explain the concept of overfitting sample 853
+854,Describe a challenging machine learning project you have worked on. (Sample 854),Medium,Machine Learning,2024-09-29,describe a challenging machine learning project you have worked on sample 854
+855,What is the difference between bagging and boosting? (Sample 855),Hard,Machine Learning,2024-10-12,what is the difference between bagging and boosting sample 855
+856,What is your favorite machine learning algorithm and why? (Sample 856),Easy,Machine Learning,2024-10-23,what is your favorite machine learning algorithm and why sample 856
+857,Explain the difference between L1 and L2 regularization. (Sample 857),Medium,Machine Learning,2025-04-27,explain the difference between l1 and l2 regularization sample 857
+858,Explain the difference between L1 and L2 regularization. (Sample 858),Easy,Machine Learning,2024-08-11,explain the difference between l1 and l2 regularization sample 858
+859,What is regularization and why is it important? (Sample 859),Hard,Machine Learning,2024-09-11,what is regularization and why is it important sample 859
+860,Describe the process of backpropagation. (Sample 860),Medium,Deep Learning,2025-04-13,describe the process of backpropagation sample 860
+861,What is principal component analysis (PCA)? (Sample 861),Easy,Data Science,2025-06-11,what is principal component analysis pca sample 861
+862,What metrics would you use to evaluate a regression model? (Sample 862),Hard,Machine Learning,2024-12-12,what metrics would you use to evaluate a regression model sample 862
+863,How does a neural network work? (Sample 863),Medium,Deep Learning,2024-09-28,how does a neural network work sample 863
+864,What is regularization and why is it important? (Sample 864),Medium,Machine Learning,2024-08-11,what is regularization and why is it important sample 864
+865,How would you optimize a machine learning model? (Sample 865),Easy,Machine Learning,2025-03-20,how would you optimize a machine learning model sample 865
+866,What is the bias-variance tradeoff? (Sample 866),Hard,Machine Learning,2025-07-28,what is the biasvariance tradeoff sample 866
+867,Explain cross-validation and its purpose. (Sample 867),Hard,Machine Learning,2025-01-07,explain crossvalidation and its purpose sample 867
+868,What is the role of activation functions in deep learning? (Sample 868),Easy,Deep Learning,2025-06-08,what is the role of activation functions in deep learning sample 868
+869,Can you explain the concept of gradient descent? (Sample 869),Easy,Machine Learning,2025-04-30,can you explain the concept of gradient descent sample 869
+870,What are the key differences between classification and regression? (Sample 870),Hard,Machine Learning,2025-04-20,what are the key differences between classification and regression sample 870
+871,What is your favorite machine learning algorithm and why? (Sample 871),Hard,Machine Learning,2024-09-04,what is your favorite machine learning algorithm and why sample 871
+872,How would you optimize a machine learning model? (Sample 872),Easy,Machine Learning,2024-10-10,how would you optimize a machine learning model sample 872
+873,Explain cross-validation and its purpose. (Sample 873),Medium,Machine Learning,2025-04-14,explain crossvalidation and its purpose sample 873
+874,How does a neural network work? (Sample 874),Medium,Deep Learning,2025-04-20,how does a neural network work sample 874
+875,How would you optimize a machine learning model? (Sample 875),Hard,Machine Learning,2024-10-26,how would you optimize a machine learning model sample 875
+876,How would you explain the concept of overfitting? (Sample 876),Medium,Machine Learning,2025-07-12,how would you explain the concept of overfitting sample 876
+877,What metrics would you use to evaluate a regression model? (Sample 877),Hard,Machine Learning,2025-01-18,what metrics would you use to evaluate a regression model sample 877
+878,What is principal component analysis (PCA)? (Sample 878),Medium,Data Science,2024-10-08,what is principal component analysis pca sample 878
+879,Explain the difference between L1 and L2 regularization. (Sample 879),Medium,Machine Learning,2025-07-25,explain the difference between l1 and l2 regularization sample 879
+880,How would you approach data cleaning for a large dataset? (Sample 880),Hard,Data Science,2025-01-04,how would you approach data cleaning for a large dataset sample 880
+881,What is the role of activation functions in deep learning? (Sample 881),Hard,Deep Learning,2025-01-29,what is the role of activation functions in deep learning sample 881
+882,What are the advantages of ensemble methods? (Sample 882),Medium,Machine Learning,2025-01-08,what are the advantages of ensemble methods sample 882
+883,Explain cross-validation and its purpose. (Sample 883),Medium,Machine Learning,2025-02-26,explain crossvalidation and its purpose sample 883
+884,What are the advantages of ensemble methods? (Sample 884),Hard,Machine Learning,2025-07-12,what are the advantages of ensemble methods sample 884
+885,How would you optimize a machine learning model? (Sample 885),Hard,Machine Learning,2024-08-31,how would you optimize a machine learning model sample 885
+886,Describe the process of backpropagation. (Sample 886),Hard,Deep Learning,2024-12-16,describe the process of backpropagation sample 886
+887,What is the role of activation functions in deep learning? (Sample 887),Medium,Deep Learning,2025-01-05,what is the role of activation functions in deep learning sample 887
+888,Can you explain the concept of gradient descent? (Sample 888),Medium,Machine Learning,2025-04-08,can you explain the concept of gradient descent sample 888
+889,What are the advantages of ensemble methods? (Sample 889),Hard,Machine Learning,2025-01-10,what are the advantages of ensemble methods sample 889
+890,What is the role of activation functions in deep learning? (Sample 890),Easy,Deep Learning,2024-08-13,what is the role of activation functions in deep learning sample 890
+891,How would you optimize a machine learning model? (Sample 891),Easy,Machine Learning,2025-07-28,how would you optimize a machine learning model sample 891
+892,Describe a challenging machine learning project you have worked on. (Sample 892),Easy,Machine Learning,2024-12-23,describe a challenging machine learning project you have worked on sample 892
+893,How does a neural network work? (Sample 893),Hard,Deep Learning,2025-02-19,how does a neural network work sample 893
+894,Explain the difference between L1 and L2 regularization. (Sample 894),Easy,Machine Learning,2024-07-31,explain the difference between l1 and l2 regularization sample 894
+895,What are the key differences between classification and regression? (Sample 895),Hard,Machine Learning,2025-04-26,what are the key differences between classification and regression sample 895
+896,Explain cross-validation and its purpose. (Sample 896),Medium,Machine Learning,2025-03-02,explain crossvalidation and its purpose sample 896
+897,What is the difference between bagging and boosting? (Sample 897),Easy,Machine Learning,2025-04-27,what is the difference between bagging and boosting sample 897
+898,Explain cross-validation and its purpose. (Sample 898),Hard,Machine Learning,2024-08-19,explain crossvalidation and its purpose sample 898
+899,How do you handle missing values in a dataset? (Sample 899),Hard,Data Science,2025-05-12,how do you handle missing values in a dataset sample 899
+900,What is principal component analysis (PCA)? (Sample 900),Medium,Data Science,2024-10-12,what is principal component analysis pca sample 900
+901,What is principal component analysis (PCA)? (Sample 901),Easy,Data Science,2024-10-04,what is principal component analysis pca sample 901
+902,Explain the difference between L1 and L2 regularization. (Sample 902),Medium,Machine Learning,2024-11-10,explain the difference between l1 and l2 regularization sample 902
+903,How would you explain the concept of overfitting? (Sample 903),Hard,Machine Learning,2025-07-24,how would you explain the concept of overfitting sample 903
+904,What is your favorite machine learning algorithm and why? (Sample 904),Easy,Machine Learning,2025-06-01,what is your favorite machine learning algorithm and why sample 904
+905,What is regularization and why is it important? (Sample 905),Medium,Machine Learning,2025-02-05,what is regularization and why is it important sample 905
+906,What are the key differences between classification and regression? (Sample 906),Easy,Machine Learning,2024-08-11,what are the key differences between classification and regression sample 906
+907,Can you explain the concept of gradient descent? (Sample 907),Hard,Machine Learning,2025-05-15,can you explain the concept of gradient descent sample 907
+908,Can you explain the concept of gradient descent? (Sample 908),Hard,Machine Learning,2024-11-08,can you explain the concept of gradient descent sample 908
+909,What is regularization and why is it important? (Sample 909),Medium,Machine Learning,2025-01-25,what is regularization and why is it important sample 909
+910,What is your favorite machine learning algorithm and why? (Sample 910),Medium,Machine Learning,2025-05-17,what is your favorite machine learning algorithm and why sample 910
+911,How would you explain the concept of overfitting? (Sample 911),Easy,Machine Learning,2025-01-26,how would you explain the concept of overfitting sample 911
+912,How would you optimize a machine learning model? (Sample 912),Medium,Machine Learning,2025-05-14,how would you optimize a machine learning model sample 912
+913,What metrics would you use to evaluate a regression model? (Sample 913),Hard,Machine Learning,2025-05-03,what metrics would you use to evaluate a regression model sample 913
+914,What is the difference between bagging and boosting? (Sample 914),Easy,Machine Learning,2025-02-18,what is the difference between bagging and boosting sample 914
+915,What is the role of activation functions in deep learning? (Sample 915),Hard,Deep Learning,2024-10-26,what is the role of activation functions in deep learning sample 915
+916,Explain the difference between L1 and L2 regularization. (Sample 916),Hard,Machine Learning,2025-04-07,explain the difference between l1 and l2 regularization sample 916
+917,Describe a challenging machine learning project you have worked on. (Sample 917),Hard,Machine Learning,2024-10-21,describe a challenging machine learning project you have worked on sample 917
+918,How would you optimize a machine learning model? (Sample 918),Medium,Machine Learning,2025-02-17,how would you optimize a machine learning model sample 918
+919,How would you approach data cleaning for a large dataset? (Sample 919),Medium,Data Science,2025-03-08,how would you approach data cleaning for a large dataset sample 919
+920,Describe the process of backpropagation. (Sample 920),Easy,Deep Learning,2025-06-12,describe the process of backpropagation sample 920
+921,What is regularization and why is it important? (Sample 921),Hard,Machine Learning,2025-07-27,what is regularization and why is it important sample 921
+922,What metrics would you use to evaluate a regression model? (Sample 922),Medium,Machine Learning,2025-06-07,what metrics would you use to evaluate a regression model sample 922
+923,Describe the process of backpropagation. (Sample 923),Medium,Deep Learning,2024-10-07,describe the process of backpropagation sample 923
+924,Explain the difference between L1 and L2 regularization. (Sample 924),Medium,Machine Learning,2024-11-09,explain the difference between l1 and l2 regularization sample 924
+925,Describe the process of backpropagation. (Sample 925),Hard,Deep Learning,2025-04-23,describe the process of backpropagation sample 925
+926,Can you explain the concept of gradient descent? (Sample 926),Medium,Machine Learning,2025-05-26,can you explain the concept of gradient descent sample 926
+927,What is regularization and why is it important? (Sample 927),Easy,Machine Learning,2024-10-15,what is regularization and why is it important sample 927
+928,What is principal component analysis (PCA)? (Sample 928),Easy,Data Science,2024-09-19,what is principal component analysis pca sample 928
+929,How would you explain the concept of overfitting? (Sample 929),Easy,Machine Learning,2024-08-04,how would you explain the concept of overfitting sample 929
+930,Describe a challenging machine learning project you have worked on. (Sample 930),Easy,Machine Learning,2025-03-08,describe a challenging machine learning project you have worked on sample 930
+931,What is regularization and why is it important? (Sample 931),Medium,Machine Learning,2025-04-16,what is regularization and why is it important sample 931
+932,What is your favorite machine learning algorithm and why? (Sample 932),Easy,Machine Learning,2025-04-29,what is your favorite machine learning algorithm and why sample 932
+933,What are the key differences between classification and regression? (Sample 933),Hard,Machine Learning,2025-06-05,what are the key differences between classification and regression sample 933
+934,Can you explain the concept of gradient descent? (Sample 934),Medium,Machine Learning,2025-02-09,can you explain the concept of gradient descent sample 934
+935,What is principal component analysis (PCA)? (Sample 935),Easy,Data Science,2025-07-29,what is principal component analysis pca sample 935
+936,What is the bias-variance tradeoff? (Sample 936),Easy,Machine Learning,2024-10-06,what is the biasvariance tradeoff sample 936
+937,What is principal component analysis (PCA)? (Sample 937),Medium,Data Science,2025-02-20,what is principal component analysis pca sample 937
+938,What is the difference between bagging and boosting? (Sample 938),Medium,Machine Learning,2025-01-23,what is the difference between bagging and boosting sample 938
+939,Describe the process of feature selection. (Sample 939),Medium,Machine Learning,2025-04-10,describe the process of feature selection sample 939
+940,Explain the difference between L1 and L2 regularization. (Sample 940),Easy,Machine Learning,2025-01-18,explain the difference between l1 and l2 regularization sample 940
+941,Can you explain the concept of gradient descent? (Sample 941),Easy,Machine Learning,2025-04-08,can you explain the concept of gradient descent sample 941
+942,What are the key differences between classification and regression? (Sample 942),Medium,Machine Learning,2025-07-13,what are the key differences between classification and regression sample 942
+943,Explain the difference between L1 and L2 regularization. (Sample 943),Medium,Machine Learning,2025-03-28,explain the difference between l1 and l2 regularization sample 943
+944,Describe the process of backpropagation. (Sample 944),Medium,Deep Learning,2025-06-07,describe the process of backpropagation sample 944
+945,What are the key differences between classification and regression? (Sample 945),Hard,Machine Learning,2024-09-09,what are the key differences between classification and regression sample 945
+946,How do you handle missing values in a dataset? (Sample 946),Hard,Data Science,2025-01-04,how do you handle missing values in a dataset sample 946
+947,What are the advantages of ensemble methods? (Sample 947),Medium,Machine Learning,2024-12-18,what are the advantages of ensemble methods sample 947
+948,How does a neural network work? (Sample 948),Hard,Deep Learning,2024-10-25,how does a neural network work sample 948
+949,Describe the process of backpropagation. (Sample 949),Medium,Deep Learning,2025-07-04,describe the process of backpropagation sample 949
+950,How does a neural network work? (Sample 950),Hard,Deep Learning,2024-10-06,how does a neural network work sample 950
+951,What is principal component analysis (PCA)? (Sample 951),Hard,Data Science,2024-10-25,what is principal component analysis pca sample 951
+952,Can you explain the concept of gradient descent? (Sample 952),Medium,Machine Learning,2024-08-19,can you explain the concept of gradient descent sample 952
+953,Describe a challenging machine learning project you have worked on. (Sample 953),Hard,Machine Learning,2024-09-05,describe a challenging machine learning project you have worked on sample 953
+954,What is regularization and why is it important? (Sample 954),Medium,Machine Learning,2025-01-20,what is regularization and why is it important sample 954
+955,How do you handle missing values in a dataset? (Sample 955),Easy,Data Science,2025-04-10,how do you handle missing values in a dataset sample 955
+956,What is the difference between bagging and boosting? (Sample 956),Medium,Machine Learning,2025-06-12,what is the difference between bagging and boosting sample 956
+957,How would you optimize a machine learning model? (Sample 957),Hard,Machine Learning,2024-09-18,how would you optimize a machine learning model sample 957
+958,What is regularization and why is it important? (Sample 958),Easy,Machine Learning,2024-12-05,what is regularization and why is it important sample 958
+959,How would you explain the concept of overfitting? (Sample 959),Medium,Machine Learning,2024-09-02,how would you explain the concept of overfitting sample 959
+960,What are the advantages of ensemble methods? (Sample 960),Medium,Machine Learning,2024-11-23,what are the advantages of ensemble methods sample 960
+961,Describe a challenging machine learning project you have worked on. (Sample 961),Easy,Machine Learning,2025-04-07,describe a challenging machine learning project you have worked on sample 961
+962,How do you handle missing values in a dataset? (Sample 962),Easy,Data Science,2025-02-14,how do you handle missing values in a dataset sample 962
+963,What is the role of activation functions in deep learning? (Sample 963),Easy,Deep Learning,2024-11-22,what is the role of activation functions in deep learning sample 963
+964,What is regularization and why is it important? (Sample 964),Medium,Machine Learning,2025-02-28,what is regularization and why is it important sample 964
+965,Explain the difference between L1 and L2 regularization. (Sample 965),Medium,Machine Learning,2025-07-28,explain the difference between l1 and l2 regularization sample 965
+966,What are the key differences between classification and regression? (Sample 966),Medium,Machine Learning,2024-11-06,what are the key differences between classification and regression sample 966
+967,How does a neural network work? (Sample 967),Easy,Deep Learning,2024-09-25,how does a neural network work sample 967
+968,What is principal component analysis (PCA)? (Sample 968),Medium,Data Science,2025-04-06,what is principal component analysis pca sample 968
+969,What is the bias-variance tradeoff? (Sample 969),Hard,Machine Learning,2025-06-10,what is the biasvariance tradeoff sample 969
+970,Explain cross-validation and its purpose. (Sample 970),Hard,Machine Learning,2024-12-17,explain crossvalidation and its purpose sample 970
+971,How do you handle missing values in a dataset? (Sample 971),Medium,Data Science,2025-03-18,how do you handle missing values in a dataset sample 971
+972,What is the bias-variance tradeoff? (Sample 972),Easy,Machine Learning,2024-09-29,what is the biasvariance tradeoff sample 972
+973,What is the bias-variance tradeoff? (Sample 973),Medium,Machine Learning,2025-03-20,what is the biasvariance tradeoff sample 973
+974,What is the difference between bagging and boosting? (Sample 974),Easy,Machine Learning,2025-02-18,what is the difference between bagging and boosting sample 974
+975,How does a neural network work? (Sample 975),Medium,Deep Learning,2025-07-27,how does a neural network work sample 975
+976,Describe the process of backpropagation. (Sample 976),Hard,Deep Learning,2025-01-08,describe the process of backpropagation sample 976
+977,Describe the process of backpropagation. (Sample 977),Medium,Deep Learning,2025-04-08,describe the process of backpropagation sample 977
+978,What is the bias-variance tradeoff? (Sample 978),Hard,Machine Learning,2024-12-16,what is the biasvariance tradeoff sample 978
+979,How would you approach data cleaning for a large dataset? (Sample 979),Easy,Data Science,2024-12-28,how would you approach data cleaning for a large dataset sample 979
+980,How does a neural network work? (Sample 980),Hard,Deep Learning,2024-12-01,how does a neural network work sample 980
+981,What are the key differences between classification and regression? (Sample 981),Medium,Machine Learning,2025-06-05,what are the key differences between classification and regression sample 981
+982,How would you explain the concept of overfitting? (Sample 982),Easy,Machine Learning,2025-01-02,how would you explain the concept of overfitting sample 982
+983,What is your favorite machine learning algorithm and why? (Sample 983),Medium,Machine Learning,2025-02-05,what is your favorite machine learning algorithm and why sample 983
+984,How would you approach data cleaning for a large dataset? (Sample 984),Hard,Data Science,2024-09-17,how would you approach data cleaning for a large dataset sample 984
+985,What are the key differences between classification and regression? (Sample 985),Medium,Machine Learning,2025-02-04,what are the key differences between classification and regression sample 985
+986,Explain the difference between L1 and L2 regularization. (Sample 986),Hard,Machine Learning,2025-06-06,explain the difference between l1 and l2 regularization sample 986
+987,How would you optimize a machine learning model? (Sample 987),Medium,Machine Learning,2025-06-17,how would you optimize a machine learning model sample 987
+988,What is the role of activation functions in deep learning? (Sample 988),Easy,Deep Learning,2025-03-24,what is the role of activation functions in deep learning sample 988
+989,What is the difference between bagging and boosting? (Sample 989),Medium,Machine Learning,2025-02-15,what is the difference between bagging and boosting sample 989
+990,What are the advantages of ensemble methods? (Sample 990),Easy,Machine Learning,2024-11-03,what are the advantages of ensemble methods sample 990
+991,Describe the process of backpropagation. (Sample 991),Medium,Deep Learning,2024-09-05,describe the process of backpropagation sample 991
+992,What is regularization and why is it important? (Sample 992),Hard,Machine Learning,2025-01-16,what is regularization and why is it important sample 992
+993,What is principal component analysis (PCA)? (Sample 993),Medium,Data Science,2024-09-21,what is principal component analysis pca sample 993
+994,How would you approach data cleaning for a large dataset? (Sample 994),Medium,Data Science,2024-08-10,how would you approach data cleaning for a large dataset sample 994
+995,Can you explain the concept of gradient descent? (Sample 995),Medium,Machine Learning,2025-02-11,can you explain the concept of gradient descent sample 995
+996,What are the key differences between classification and regression? (Sample 996),Medium,Machine Learning,2024-11-07,what are the key differences between classification and regression sample 996
+997,What is the difference between bagging and boosting? (Sample 997),Medium,Machine Learning,2025-03-12,what is the difference between bagging and boosting sample 997
+998,What is your favorite machine learning algorithm and why? (Sample 998),Hard,Machine Learning,2024-11-10,what is your favorite machine learning algorithm and why sample 998
+999,How would you approach data cleaning for a large dataset? (Sample 999),Hard,Data Science,2025-04-30,how would you approach data cleaning for a large dataset sample 999
+1000,What are the key differences between classification and regression? (Sample 1000),Easy,Machine Learning,2025-06-22,what are the key differences between classification and regression sample 1000

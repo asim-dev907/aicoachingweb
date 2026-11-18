@@ -1,0 +1,44 @@
+AI INTERVIEW PRACTICE COACH
+DATASET SUMMARY REPORT
+========================================
+
+Total Rows: 1000
+Total Columns: 6
+
+Column Names:
+['id', 'question', 'difficulty', 'category', 'date', 'question_clean']
+
+Data Types:
+id                int64
+question            str
+difficulty          str
+category            str
+date                str
+question_clean      str
+dtype: object
+
+Missing Values:
+id                0
+question          0
+difficulty        0
+category          0
+date              0
+question_clean    0
+dtype: int64
+
+Duplicate Rows:
+0
+
+Category Distribution:
+category
+Machine Learning    725
+Deep Learning       143
+Data Science        132
+Name: count, dtype: int64
+
+Difficulty Distribution:
+difficulty
+Medium    352
+Hard      327
+Easy      321
+Name: count, dtype: int64
